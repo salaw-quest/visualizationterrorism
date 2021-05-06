@@ -1,0 +1,2122 @@
+"","eventid","iyear","imonth","iday","nkill","nwound","country_txt","gname","gsubname","gname2","gsubname2"
+"1",199212290002,1992,12,29,2,5,"Yemen","Al-Qaida",NA,NA,NA
+"2",199212290003,1992,12,29,1,1,"Yemen","Al-Qaida",NA,NA,NA
+"3",199808070002,1998,8,7,224,4000,"Kenya","Al-Qaida",NA,NA,NA
+"4",199808070003,1998,8,7,11,85,"Tanzania","Al-Qaida",NA,NA,NA
+"5",200001030010,2000,1,3,0,0,"Yemen","Al-Qaida",NA,NA,NA
+"6",200010120001,2000,10,12,19,38,"Yemen","Al-Qaida",NA,NA,NA
+"7",200109110004,2001,9,11,1385,10878,"United States","Al-Qaida",NA,NA,NA
+"8",200109110005,2001,9,11,1385,10878,"United States","Al-Qaida",NA,NA,NA
+"9",200109110006,2001,9,11,190,106,"United States","Al-Qaida",NA,NA,NA
+"10",200109110007,2001,9,11,44,9,"United States","Al-Qaida",NA,NA,NA
+"11",200112220002,2001,12,22,0,1,"France","Al-Qaida",NA,NA,NA
+"12",200203170001,2002,3,17,5,46,"Pakistan","Al-Qaida",NA,NA,NA
+"13",200204080001,2002,4,8,10,80,"Afghanistan","Al-Qaida",NA,NA,NA
+"14",200204110003,2002,4,11,21,30,"Tunisia","Al-Qaida","Islamic Army for the Liberation of the Holy Sites",NA,NA
+"15",200205080002,2002,5,8,14,20,"Pakistan","Al-Qaida",NA,NA,NA
+"16",200206270006,2002,6,27,19,24,"Afghanistan","Al-Qaida",NA,NA,NA
+"17",200209050001,2002,9,5,3,1,"Afghanistan","Al-Qaida",NA,NA,NA
+"18",200209050005,2002,9,5,10,65,"Afghanistan","Al-Qaida",NA,NA,NA
+"19",200209150002,2002,9,15,1,5,"Pakistan","Al-Qaida",NA,NA,NA
+"20",200210060001,2002,10,6,1,12,"International","Al-Qaida",NA,"Adan Abyan Islamic Army (AAIA)",NA
+"21",200211140003,2002,11,14,0,0,"Afghanistan","Al-Qaida",NA,"Taliban",NA
+"22",200211210006,2002,11,21,0,8,"Afghanistan","Al-Qaida",NA,"Taliban",NA
+"23",200211280003,2002,11,28,16,0,"Kenya","Al-Qaida","Army of Palestine",NA,NA
+"24",200211280004,2002,11,28,0,0,"Kenya","Al-Qaida","Army of Palestine",NA,NA
+"25",200212170002,2002,12,17,0,3,"Afghanistan","Al-Qaida",NA,NA,NA
+"26",200303040003,2003,3,4,0,0,"Afghanistan","Al-Qaida",NA,"Taliban",NA
+"27",200303050004,2003,3,5,0,1,"Afghanistan","Al-Qaida",NA,"Taliban",NA
+"28",200303070006,2003,3,7,0,0,"Afghanistan","Al-Qaida",NA,"Taliban",NA
+"29",200303100003,2003,3,10,3,5,"Afghanistan","Al-Qaida",NA,"Taliban",NA
+"30",200303130001,2003,3,13,0,0,"Afghanistan","Al-Qaida",NA,"Taliban",NA
+"31",200303150002,2003,3,15,0,0,"Afghanistan","Al-Qaida",NA,"Taliban",NA
+"32",200303180007,2003,3,18,0,0,"Afghanistan","Al-Qaida",NA,"Taliban",NA
+"33",200303200003,2003,3,20,0,0,"Afghanistan","Al-Qaida",NA,"Taliban",NA
+"34",200305120006,2003,5,12,12,NA,"Saudi Arabia","Al-Qaida in Saudi Arabia",NA,NA,NA
+"35",200305120007,2003,5,12,11,NA,"Saudi Arabia","Al-Qaida in Saudi Arabia",NA,NA,NA
+"36",200305120008,2003,5,12,11,NA,"Saudi Arabia","Al-Qaida in Saudi Arabia",NA,NA,NA
+"37",200305120009,2003,5,12,0,0,"Saudi Arabia","Al-Qaida in Saudi Arabia",NA,NA,NA
+"38",200306070001,2003,6,7,6,29,"Afghanistan","Al-Qaida",NA,"Taliban",NA
+"39",200308130001,2003,8,13,17,3,"Afghanistan","Al-Qaida",NA,"Taliban",NA
+"40",200309230003,2003,9,23,4,4,"Saudi Arabia","Al-Qaida in Saudi Arabia",NA,NA,NA
+"41",200310120001,2003,10,12,7,35,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"42",200311010003,2003,11,1,0,0,"Afghanistan","Al-Qaida",NA,NA,NA
+"43",200311080004,2003,11,8,17,122,"Saudi Arabia","Al-Qaida in Saudi Arabia",NA,NA,NA
+"44",200311200005,2003,11,20,16,224,"Turkey","Al-Qaida",NA,"Great Eastern Islamic Raiders Front (IBDA-C)",NA
+"45",200311200006,2003,11,20,16,224,"Turkey","Al-Qaida",NA,"Great Eastern Islamic Raiders Front (IBDA-C)",NA
+"46",200312250002,2003,12,25,15,46,"Pakistan","Al-Qaida",NA,NA,NA
+"47",200403110001,2004,3,11,37,450,"Spain","Al-Qaida",NA,NA,NA
+"48",200403110003,2004,3,11,73,450,"Spain","Al-Qaida",NA,NA,NA
+"49",200403110004,2004,3,11,19,450,"Spain","Al-Qaida",NA,NA,NA
+"50",200403110005,2004,3,11,0,0,"Spain","Al-Qaida",NA,NA,NA
+"51",200403110006,2004,3,11,0,0,"Spain","Al-Qaida",NA,NA,NA
+"52",200403110007,2004,3,11,62,450,"Spain","Al-Qaida",NA,NA,NA
+"53",200403240001,2004,3,24,0,2,"Pakistan","Al-Qaida",NA,NA,NA
+"54",200405010001,2004,5,1,10,25,"Saudi Arabia","Al-Qaida in Saudi Arabia",NA,NA,NA
+"55",200405290002,2004,5,29,22,26,"Saudi Arabia","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"56",200406040004,2004,6,4,0,3,"Pakistan","Al-Qaida",NA,NA,NA
+"57",200406100005,2004,6,10,24,NA,"Pakistan","Al-Qaida",NA,NA,NA
+"58",200406130001,2004,6,13,1,0,"Saudi Arabia","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"59",200406180001,2004,6,18,1,0,"Saudi Arabia","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"60",200408260006,2004,8,26,1,6,"Pakistan","Al-Qaida",NA,NA,NA
+"61",200408280004,2004,8,28,2,5,"Pakistan","Al-Qaida",NA,NA,NA
+"62",200410240001,2004,10,24,50,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"63",200410250001,2004,10,25,3,19,"Iraq","Al-Qaida in Iraq",NA,"Islamic Army in Iraq (al-Jaish al-Islami fi al-Iraq)",NA
+"64",200410270002,2004,10,27,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"65",200412030007,2004,12,3,13,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"66",200412070001,2004,12,6,9,5,"Saudi Arabia","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"67",200412140001,2004,12,14,2,12,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"68",200412200001,2004,12,20,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"69",200412230001,2004,12,23,1,1,"Pakistan","Al-Qaida",NA,NA,NA
+"70",200412290001,2004,12,29,8,90,"Saudi Arabia","Al-Qaida in Saudi Arabia",NA,NA,NA
+"71",200501040002,2005,1,4,2,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"72",200501100006,2005,1,10,2,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"73",200501110002,2005,1,11,8,8,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"74",200501200002,2005,1,20,3,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"75",200501210006,2005,1,21,12,23,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"76",200502040001,2005,2,4,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"77",200502070005,2005,2,7,12,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"78",200502080001,2005,2,8,21,27,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"79",200502120002,2005,2,12,18,21,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"80",200502190002,2005,2,19,3,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"81",200503020004,2005,3,2,7,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"82",200503030001,2005,3,3,9,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"83",200503070002,2005,3,7,16,23,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"84",200503070003,2005,3,7,11,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"85",200503140006,2005,3,14,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"86",200503200004,2005,3,20,4,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"87",200504100004,2005,4,10,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"88",200504140001,2005,4,14,20,24,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"89",200504150003,2005,4,15,1,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"90",200504230001,2005,4,23,10,20,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"91",200504240003,2005,4,24,6,26,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"92",200504300001,2005,4,30,3,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"93",200504300007,2005,4,30,3,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"94",200505010004,2005,5,1,4,12,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"95",200505020005,2005,5,2,3,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"96",200505060007,2005,5,6,NA,NA,"Iraq","Al-Qaida in Iraq","Al-Bara bin Malek Jihad Brigades",NA,NA
+"97",200505070007,2005,5,7,22,35,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"98",200505100007,2005,5,10,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"99",200505120007,2005,5,12,15,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"100",200505120009,2005,5,12,1,99,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"101",200505180008,2005,5,18,1,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"102",200505230002,2005,5,23,2,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"103",200505290013,2005,5,29,11,12,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"104",200505300002,2005,5,30,34,108,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"105",200505300005,2005,5,30,27,128,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"106",200506010001,2005,6,1,21,52,"Afghanistan","Al-Qaida",NA,NA,NA
+"107",200506110001,2005,6,11,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"108",200506130001,2005,6,13,3,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"109",200506190002,2005,6,19,23,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"110",200507010002,2005,7,1,5,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"111",200507010004,2005,7,1,2,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"112",200507020001,2005,7,2,20,21,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"113",200507020002,2005,7,2,8,26,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"114",200507020006,2005,7,2,0,9,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"115",200507020007,2005,7,2,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"116",200507050002,2005,7,5,0,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"117",200507050003,2005,7,5,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"118",200507070001,2005,7,7,8,171,"United Kingdom","Al-Qaida",NA,NA,NA
+"119",200507070002,2005,7,7,27,340,"United Kingdom","Al-Qaida",NA,NA,NA
+"120",200507070003,2005,7,7,7,163,"United Kingdom","Al-Qaida",NA,NA,NA
+"121",200507070004,2005,7,7,14,110,"United Kingdom","Al-Qaida",NA,NA,NA
+"122",200507070005,2005,7,7,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"123",200507100001,2005,7,10,25,47,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"124",200507110002,2005,7,11,12,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"125",200507110004,2005,7,11,2,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"126",200507140007,2005,7,14,3,13,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"127",200507160007,2005,7,16,8,20,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"128",200507190001,2005,7,19,3,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"129",200507210002,2005,7,21,0,0,"United Kingdom","Al-Qaida",NA,NA,NA
+"130",200507210003,2005,7,21,2,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"131",200507210006,2005,7,21,0,0,"United Kingdom","Al-Qaida",NA,NA,NA
+"132",200507210007,2005,7,21,0,0,"United Kingdom","Al-Qaida",NA,NA,NA
+"133",200507210008,2005,7,21,0,0,"United Kingdom","Al-Qaida",NA,NA,NA
+"134",200507290007,2005,7,29,44,57,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"135",200508230004,2005,8,23,8,20,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"136",200509140001,2005,9,14,160,542,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"137",200509160006,2005,9,16,4,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"138",200509170001,2005,9,17,30,38,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"139",200509250005,2005,9,25,10,12,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"140",200509280002,2005,9,28,6,30,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"141",200510180003,2005,10,0,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"142",200510310003,2005,10,31,12,NA,"Yemen","Al-Qaida in Yemen",NA,"Houthi extremists (Ansar Allah)",NA
+"143",200511050001,2005,11,5,8,NA,"Pakistan","Al-Qaida",NA,NA,NA
+"144",200511090002,2005,11,9,20,34,"Jordan","Al-Qaida in Iraq",NA,NA,NA
+"145",200511090003,2005,11,9,20,33,"Jordan","Al-Qaida in Iraq",NA,NA,NA
+"146",200511090004,2005,11,9,21,33,"Jordan","Al-Qaida in Iraq",NA,NA,NA
+"147",200511100001,2005,11,10,35,25,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"148",200512060004,2005,12,6,36,72,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"149",200512140002,2005,12,14,0,0,"Sweden","Al-Qaida Organization for Jihad in Sweden",NA,NA,NA
+"150",200512290001,2005,12,29,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"151",200601090001,2006,1,9,2,15,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"152",200602030004,2006,2,3,0,1,"Bangladesh","Al-Qaida Network for Southwestern Khulna Division",NA,NA,NA
+"153",200602030005,2006,2,3,0,0,"Bangladesh","Al-Qaida Network for Southwestern Khulna Division",NA,NA,NA
+"154",200602060003,2006,2,6,0,0,"Afghanistan","Al-Qaida",NA,NA,NA
+"155",200602220004,2006,2,22,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"156",200602240009,2006,2,24,4,8,"Saudi Arabia","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"157",200604070001,2006,4,7,90,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"158",200606030001,2006,6,3,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"159",200606110001,2006,6,11,6,59,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"160",200609180004,2006,9,18,11,18,"Somalia","Al-Qaida",NA,NA,NA
+"161",200611100004,2006,11,10,9,4,"Pakistan","Al-Qaida",NA,NA,NA
+"162",200701230001,2007,1,23,0,0,"West Bank and Gaza Strip","Al-Qaida",NA,"Hamas (Islamic Resistance Movement)",NA
+"163",200701270005,2007,1,27,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"164",200701280007,2007,1,28,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"165",200701300008,2007,1,30,15,NA,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"166",200702010006,2007,2,1,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"167",200702020008,2007,2,2,0,2,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"168",200702060001,2007,2,6,1,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"169",200702080009,2007,2,8,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"170",200702130001,2007,2,13,1,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"171",200702130002,2007,2,13,0,4,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"172",200702130003,2007,2,13,4,8,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"173",200702130004,2007,2,13,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"174",200702130005,2007,2,13,2,3,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"175",200702130006,2007,2,13,0,14,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"176",200702200012,2007,2,20,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"177",200702210010,2007,2,21,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"178",200702280009,2007,2,28,0,2,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"179",200702280010,2007,2,28,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"180",200702280011,2007,2,28,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"181",200702280012,2007,2,28,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"182",200703030002,2007,3,3,4,5,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)","Group of Sermons and Struggle",NA,NA
+"183",200703040003,2007,3,4,9,1,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"184",200703160001,2007,3,16,2,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"185",200703160002,2007,3,16,2,100,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"186",200703160003,2007,3,16,1,250,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"187",200703220005,2007,3,22,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"188",200703230001,2007,3,23,8,18,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"189",200703280007,2007,3,28,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"190",200704020010,2007,4,2,3,7,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"191",200704070004,2007,4,7,15,5,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"192",200704110001,2007,4,11,30,160,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"193",200704120001,2007,4,12,8,20,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"194",200704130009,2007,4,13,2,2,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)","Group of Sermons and Struggle",NA,NA
+"195",200704140001,2007,4,14,2,1,"Morocco","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"196",200704160004,2007,4,16,0,2,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"197",200704170007,2007,4,17,0,1,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"198",200704180001,2007,4,18,127,148,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"199",200704240007,2007,4,24,1,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)","Ezzane katibat",NA,NA
+"200",200704250007,2007,4,25,1,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"201",200705070004,2007,5,7,19,11,"Iraq","Al-Qaida Kurdish Battalions (AQKB)",NA,NA,NA
+"202",200705130002,2007,5,14,2,3,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"203",200705150004,2007,5,15,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)","Aibed-Errahmane katibat",NA,NA
+"204",200705160001,2007,5,16,1,2,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)","Group of Sermons and Struggle",NA,NA
+"205",200705190005,2007,5,19,16,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"206",200705270004,2007,5,27,0,1,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"207",200705290002,2007,5,29,0,2,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"208",200706010004,2007,6,1,3,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"209",200706020001,2007,6,2,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"210",200706020008,2007,6,2,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"211",200706020020,2007,6,2,1,10,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"212",200706020021,2007,6,2,1,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"213",200706040049,2007,6,4,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"214",200706060041,2007,6,6,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"215",200706070011,2007,6,7,3,7,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"216",200706080001,2007,6,8,15,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"217",200706090001,2007,6,9,15,30,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"218",200706110001,2007,6,11,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"219",200706130002,2007,6,13,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"220",200706210001,2007,6,21,18,66,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"221",200706210005,2007,6,21,0,1,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)","El Ansar phalange",NA,NA
+"222",200706300003,2007,6,30,1,2,"United Kingdom","Al-Qaida in Iraq",NA,NA,NA
+"223",200707000001,2007,7,0,1,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"224",200707020002,2007,7,2,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"225",200707030001,2007,7,3,9,0,"Yemen","Al-Qaida in Yemen",NA,NA,NA
+"226",200707030002,2007,7,3,1,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"227",200707050018,2007,7,5,0,1,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)","Group of Sermons and Struggle",NA,NA
+"228",200707110002,2007,7,11,11,35,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"229",200707110007,2007,7,11,1,1,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)","Group of Sermons and Struggle",NA,NA
+"230",200707140001,2007,7,14,25,26,"Pakistan","Al-Qaida",NA,NA,NA
+"231",200707200007,2007,7,20,0,1,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"232",200708140003,2007,8,14,3,8,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"233",200708140005,2007,8,14,0,1,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"234",200708150005,2007,8,14,250,750,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"235",200708160008,2007,8,14,250,750,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"236",200708190001,2007,8,19,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"237",200708240037,2007,8,24,3,9,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"238",200709030002,2007,9,3,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"239",200709030009,2007,9,3,6,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"240",200709040001,2007,9,4,18,35,"Pakistan","Al-Qaida",NA,NA,NA
+"241",200709060002,2007,9,6,16,74,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"242",200709070004,2007,9,7,1,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"243",200709080006,2007,9,8,30,47,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"244",200709120005,2007,9,12,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"245",200709130002,2007,9,14,3,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"246",200709140001,2007,9,14,3,5,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"247",200709160002,2007,9,16,14,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"248",200709200007,2007,9,20,1,1,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"249",200709210003,2007,9,21,1,9,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"250",200709240006,2007,9,24,20,30,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"251",200709240012,2007,9,24,1,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"252",200709260003,2007,9,26,2,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)","Les Issers brigade",NA,NA
+"253",200710010020,2007,10,1,0,3,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"254",200710040019,2007,10,4,0,2,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)","El-Ansar katibat",NA,NA
+"255",200710290012,2007,10,29,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"256",200711060018,2007,11,6,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"257",200711120008,2007,11,12,10,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"258",200711120009,2007,11,12,10,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"259",200711160004,2007,11,16,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"260",200711170015,2007,11,17,6,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"261",200711180004,2007,11,18,7,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"262",200711220001,2007,11,22,14,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"263",200711220017,2007,11,22,22,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"264",200711220018,2007,11,22,22,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"265",200711230011,2007,11,23,2,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"266",200711260013,2007,11,26,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"267",200711260014,2007,11,26,4,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"268",200711300002,2007,11,30,5,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"269",200712110010,2007,12,11,20,84,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"270",200712110011,2007,12,11,19,83,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"271",200712150002,2007,12,15,5,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"272",200712260002,2007,12,26,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)","Group of Sermons and Struggle",NA,NA
+"273",200712260003,2007,12,26,2,2,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)","Group of Sermons and Struggle",NA,NA
+"274",200712260005,2007,12,26,0,2,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)","Group of Sermons and Struggle",NA,NA
+"275",200712260006,2007,12,26,0,2,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)","Group of Sermons and Struggle",NA,NA
+"276",200712260007,2007,12,26,2,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)","Group of Sermons and Struggle",NA,NA
+"277",200712270001,2007,12,27,20,100,"Pakistan","Al-Qaida",NA,"Lashkar-e-Jhangvi",NA
+"278",200801010011,2008,1,1,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"279",200801020002,2008,1,2,8,22,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"280",200801020010,2008,1,2,5,20,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"281",200801060012,2008,1,6,0,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"282",200801300007,2008,1,30,1,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"283",200802010002,2008,2,1,90,130,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"284",200802010003,2008,2,1,7,15,"Pakistan","Al-Qaida",NA,NA,NA
+"285",200802110002,2008,2,11,11,20,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"286",200802160004,2008,2,16,3,3,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"287",200802220008,2008,2,22,0,0,"Tunisia","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"288",200803020011,2008,3,2,1,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"289",200803030010,2008,3,3,1,7,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"290",200803060005,2008,3,6,56,130,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"291",200803110011,2008,3,11,27,200,"Pakistan","Al-Qaida",NA,NA,NA
+"292",200803120001,2008,3,12,5,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"293",200803130003,2008,3,13,4,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"294",200803130005,2008,3,13,5,9,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"295",200803150001,2008,3,15,1,10,"Pakistan","Al-Qaida",NA,"Taliban",NA
+"296",200803160026,2008,3,16,2,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"297",200803180007,2008,3,18,2,19,"Yemen","Al-Qaida in Yemen",NA,NA,NA
+"298",200804020004,2008,4,2,4,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"299",200804020012,2008,4,2,1,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"300",200804020029,2008,4,2,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"301",200804050040,2008,4,5,1,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"302",200804060002,2008,4,6,0,0,"Yemen","Al-Qaida in Yemen",NA,NA,NA
+"303",200804070001,2008,4,7,4,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"304",200804080005,2008,4,8,7,11,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"305",200804080019,2008,4,8,1,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"306",200804080023,2008,4,8,6,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"307",200804130013,2008,4,13,0,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"308",200804130028,2008,4,13,1,4,"Yemen","Al-Qaida in Yemen",NA,NA,NA
+"309",200804140010,2008,4,14,4,17,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"310",200804140022,2008,4,14,0,0,"Yemen","Al-Qaida in Yemen",NA,NA,NA
+"311",200804150011,2008,4,15,14,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"312",200804150012,2008,4,15,42,80,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"313",200804230021,2008,4,23,0,0,"Yemen","Al-Qaida in Yemen",NA,NA,NA
+"314",200804240016,2008,4,24,1,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"315",200805010003,2008,5,1,36,66,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"316",200805020003,2008,5,2,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"317",200805110001,2008,5,11,9,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"318",200805120005,2008,5,12,3,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"319",200805130029,2008,5,13,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"320",200805160024,2008,5,16,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)","El Arkam",NA,NA
+"321",200805200009,2008,5,20,2,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"322",200805300042,2008,5,30,0,0,"Yemen","Al-Qaida in Yemen",NA,NA,NA
+"323",200805310018,2008,5,31,1,1,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)","El Houra katibat",NA,NA
+"324",200806050003,2008,6,5,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"325",200806050021,2008,6,5,1,6,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"326",200806080003,2008,6,8,5,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"327",200806080006,2008,6,8,2,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"328",200806080018,2008,6,8,10,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"329",200806080019,2008,6,8,2,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"330",200806120007,2008,6,12,4,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"331",200806170006,2008,6,17,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"332",200806170024,2008,6,17,3,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"333",200806260028,2008,6,26,0,4,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"334",200806270020,2008,6,27,2,5,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"335",200807070042,2008,7,7,2,5,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"336",200807090016,2008,7,9,6,2,"Turkey","Al-Qaida",NA,NA,NA
+"337",200807110026,2008,7,11,0,4,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"338",200807170027,2008,7,17,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)","AQLIM faction led by emir El Kazouit",NA,NA
+"339",200807210008,2008,7,21,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"340",200807230001,2008,7,23,1,13,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"341",200807270040,2008,7,27,7,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"342",200807280009,2008,7,28,24,61,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"343",200807280012,2008,7,28,8,21,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"344",200808030013,2008,8,3,1,25,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"345",200808090001,2008,8,9,9,19,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"346",200808140048,2008,8,14,0,1,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"347",200808140049,2008,8,14,3,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"348",200808190031,2008,8,19,44,45,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"349",200808200012,2008,8,20,12,15,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"350",200808200025,2008,8,20,3,10,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"351",200808230005,2008,8,23,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"352",200808290017,2008,8,27,7,14,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"353",200809140011,2008,9,14,0,4,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"354",200809150006,2008,9,15,12,0,"Mauritania","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"355",200809170002,2008,9,17,16,6,"Yemen","Al-Qaida in Yemen",NA,NA,NA
+"356",200809220004,2008,9,22,2,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"357",200809220041,2008,9,22,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"358",200809260001,2008,9,26,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"359",200809270016,2008,9,27,2,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"360",200809280014,2008,9,28,12,35,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"361",200809280015,2008,9,28,1,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"362",200809280016,2008,9,28,8,25,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"363",200809280022,2008,9,28,8,25,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"364",200809280027,2008,9,28,4,5,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"365",200809300011,2008,9,30,6,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"366",200810050004,2008,10,5,2,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"367",200810060011,2008,10,6,2,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"368",200810130005,2008,10,13,1,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"369",200810200004,2008,10,20,1,1,"Yemen","Al-Qaida in Yemen",NA,NA,NA
+"370",200811050015,2008,11,5,1,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"371",200811080005,2008,11,8,1,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"372",200811100001,2008,11,10,32,71,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"373",200811100005,2008,11,10,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"374",200811100009,2008,11,10,0,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"375",200812140030,2008,12,14,0,0,"Niger","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"376",200812210006,2008,12,20,3,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"377",200901030004,2009,1,3,0,0,"Iraq","Al-Qaida in Iraq","Ashbal Al Qaeda",NA,NA
+"378",200901160005,2009,1,16,1,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"379",200901220003,2009,1,22,1,0,"Niger","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"380",200902120017,2009,2,12,7,NA,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"381",200902220021,2009,2,22,9,3,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"382",200903100010,2009,3,10,34,46,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"383",200903130004,2009,3,13,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"384",200903140001,2009,3,14,1,1,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"385",200903150003,2009,3,15,7,5,"Yemen","Al-Qaida in Yemen",NA,NA,NA
+"386",200903150031,2009,3,15,4,1,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"387",200903160016,2009,3,16,2,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"388",200903180003,2009,3,18,1,NA,"Yemen","Al-Qaida in Yemen",NA,NA,NA
+"389",200903190004,2009,3,19,1,2,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"390",200903230002,2009,3,23,16,30,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"391",200903250034,2009,3,24,2,2,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"392",200903260005,2009,3,26,1,NA,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"393",200904060003,2009,4,6,6,16,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"394",200904060004,2009,4,6,10,65,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"395",200904060005,2009,4,6,2,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"396",200904060006,2009,4,6,4,20,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"397",200904060007,2009,4,6,12,25,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"398",200904060008,2009,4,6,12,25,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"399",200904060024,2009,4,6,12,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"400",200904080003,2009,4,8,7,23,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"401",200904090026,2009,4,9,0,1,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"402",200904140002,2009,4,14,0,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"403",200905020021,2009,5,2,2,1,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"404",200905140020,2009,5,14,0,3,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"405",200906020007,2009,6,2,10,2,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"406",200906030001,2008,12,14,0,0,"Niger","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"407",200906100014,2009,6,10,1,0,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"408",200906170024,2009,6,17,19,8,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"409",200906220009,2009,6,22,5,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"410",200906230007,2009,6,23,1,0,"Mauritania","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"411",200907030010,2009,7,3,28,0,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"412",200907050019,2009,7,5,0,2,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"413",200907210015,2009,7,20,1,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"414",200907280006,2009,7,26,2,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"415",200908080008,2009,8,8,1,3,"Mauritania","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"416",200908180018,2009,8,18,43,38,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"417",200908270006,2009,8,27,1,1,"Saudi Arabia","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"418",200909210009,2009,9,20,0,5,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"419",200910150001,2009,10,15,1,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"420",200910220014,2009,10,22,7,2,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"421",200910220018,2009,10,22,0,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"422",200910300012,2009,10,30,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"423",200911030003,2009,11,3,5,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"424",200911170011,2009,11,17,2,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"425",200911250008,2009,11,25,0,0,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"426",200911290015,2009,11,29,0,1,"Mauritania","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"427",200912030024,2009,12,3,6,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"428",200912080008,2009,12,8,26,100,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"429",200912080009,2009,12,8,26,100,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"430",200912080010,2009,12,8,26,100,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"431",200912080011,2009,12,8,27,100,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"432",200912080012,2009,12,8,27,100,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"433",200912180002,2009,12,18,0,0,"Mauritania","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"434",200912210017,2009,12,21,2,8,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"435",200912250024,2009,12,25,0,2,"United States","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"436",200912300005,2009,12,30,4,0,"Niger","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"437",201001190011,2010,1,0,0,0,"Pakistan","Al-Qaida",NA,NA,NA
+"438",201004210003,2010,4,21,1,0,"Niger","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"439",201004230001,2010,4,23,3,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"440",201004230002,2010,4,23,5,14,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"441",201004230003,2010,4,23,6,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"442",201004230004,2010,4,23,1,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"443",201004230005,2010,4,23,0,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"444",201004230008,2010,4,23,20,28,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"445",201004230009,2010,4,23,19,28,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"446",201004230010,2010,4,23,0,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"447",201004260007,2010,4,26,1,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"448",201005100002,2010,5,10,12,100,"Iraq","Al-Qaida in Iraq",NA,"Islamic State of Iraq (ISI)",NA
+"449",201005100003,2010,5,10,6,62,"Iraq","Al-Qaida in Iraq",NA,"Islamic State of Iraq (ISI)",NA
+"450",201005100035,2010,5,10,43,157,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"451",201005190028,2010,5,19,2,18,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"452",201006120023,2010,6,12,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"453",201006190009,2010,6,19,13,12,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"454",201006300004,2010,6,30,11,NA,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"455",201007010007,2010,7,1,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"456",201007070002,2010,7,7,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"457",201007070003,2010,7,7,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"458",201007070004,2010,7,7,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"459",201007070005,2010,7,7,0,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"460",201007070006,2010,7,7,0,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"461",201007140006,2010,7,14,4,13,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"462",201007140007,2010,7,14,2,6,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"463",201007140008,2010,7,14,3,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"464",201007180010,2010,7,18,43,41,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"465",201007180011,2010,7,18,5,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"466",201007220006,2010,7,22,5,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"467",201007250009,2010,7,25,9,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"468",201007250013,2010,7,25,2,8,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"469",201007260014,2010,7,26,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"470",201007290005,2010,7,29,8,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"471",201007290006,2010,7,29,8,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"472",201008030011,2010,8,3,1,8,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"473",201008050014,2010,8,5,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"474",201008060002,2010,8,6,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"475",201008070005,2010,8,0,2,4,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"476",201008100009,2010,8,10,1,0,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"477",201008130003,2010,8,13,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"478",201008160010,2010,8,16,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"479",201008190005,2010,8,19,3,2,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"480",201008190013,2010,8,19,1,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"481",201008220018,2010,8,22,1,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"482",201008230004,2010,8,23,13,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"483",201008240018,2010,8,0,1,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"484",201008250010,2010,8,25,1,0,"Mauritania","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"485",201008260012,2010,8,26,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"486",201009010023,2010,9,1,3,9,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"487",201009030012,2010,9,3,1,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"488",201009050022,2010,9,5,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"489",201009090027,2010,9,9,3,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"490",201009110008,2010,9,11,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"491",201009110011,2010,9,11,0,2,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"492",201009130001,2010,9,13,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,"Al-Shabaab al-Mu'minin",NA
+"493",201009160002,2010,9,16,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"494",201009160020,2010,9,16,0,0,"Niger","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"495",201009180001,2010,9,18,0,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"496",201009190029,2010,9,19,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"497",201009190030,2010,9,19,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"498",201009200001,2010,9,20,1,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"499",201009220026,2010,9,22,6,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"500",201009250001,2010,9,25,2,10,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"501",201009250003,2010,9,25,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"502",201009290002,2010,9,29,3,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"503",201009290011,2010,9,29,1,2,"Iraq","Al-Qaida Kurdish Battalions (AQKB)",NA,NA,NA
+"504",201010020014,2010,10,2,5,10,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"505",201010080008,2010,10,8,0,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"506",201010080009,2010,10,8,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"507",201010110002,2010,10,11,2,12,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"508",201010140017,2010,10,14,0,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"509",201010140018,2010,10,14,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"510",201010160004,2010,10,16,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"511",201010180007,2010,10,18,3,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"512",201010220020,2010,10,22,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"513",201010250019,2010,10,26,1,4,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)","El Arkam",NA,NA
+"514",201010290009,2010,10,29,0,0,"United Kingdom","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"515",201010290010,2010,10,29,0,0,"United Arab Emirates","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"516",201011020005,2010,11,2,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"517",201011020020,2010,11,2,21,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"518",201011020021,2010,11,2,2,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"519",201011020022,2010,11,2,2,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"520",201011020023,2010,11,2,2,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"521",201011020024,2010,11,2,2,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"522",201011020025,2010,11,2,2,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"523",201011020027,2010,11,2,1,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"524",201011020028,2010,11,2,1,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"525",201011020029,2010,11,2,1,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"526",201011020030,2010,11,2,1,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"527",201011020031,2010,11,2,1,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"528",201011020032,2010,11,2,1,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"529",201011020033,2010,11,2,1,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"530",201011020034,2010,11,2,1,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"531",201011030009,2010,11,3,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"532",201011040008,2010,11,4,2,13,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"533",201011240003,2010,11,24,16,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"534",201011240004,2010,11,24,16,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"535",201011260004,2010,11,26,41,12,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"536",201011300008,2010,11,30,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"537",201011300019,2010,11,30,1,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"538",201012150001,2010,12,15,5,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"539",201012170001,2010,12,17,3,10,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"540",201101050006,2011,1,5,0,2,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"541",201101070008,2011,1,7,2,0,"Niger","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"542",201101070011,2011,1,7,10,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"543",201101070012,2011,1,7,4,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"544",201101170001,2011,1,17,1,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"545",201101180007,2011,1,18,61,150,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"546",201101230003,2011,1,23,1,6,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"547",201101240014,2011,1,24,1,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"548",201101290003,2011,1,29,1,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"549",201102010002,2011,2,1,0,0,"Mauritania","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"550",201102010009,2011,2,1,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"551",201102020019,2011,2,2,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"552",201102030005,2011,2,3,1,0,"Mauritania","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"553",201102160008,2011,2,16,1,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"554",201102270005,2011,2,27,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"555",201103060009,2011,3,6,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"556",201103060010,2011,3,6,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"557",201103110006,2011,3,11,4,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"558",201103270011,2011,3,27,6,6,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"559",201103280011,2011,3,28,110,45,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"560",201103290015,2011,3,29,68,95,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"561",201104080017,2011,4,8,2,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"562",201104150001,2011,4,15,14,12,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"563",201104220003,2011,4,22,1,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"564",201104280001,2011,4,28,0,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"565",201104280002,2011,4,28,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"566",201104280004,2011,4,28,17,24,"Morocco","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"567",201105010008,2011,5,1,3,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"568",201105060018,2011,5,6,1,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"569",201105130005,2011,5,13,4,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"570",201105140008,2011,5,14,6,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"571",201105150013,2011,5,15,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"572",201105150014,2011,5,15,1,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"573",201105150024,2011,5,15,0,0,"Tunisia","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"574",201105160013,2011,5,16,3,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"575",201105180008,2011,5,18,4,0,"Tunisia","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"576",201106010033,2011,6,1,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"577",201106030020,2011,6,3,7,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,"Muslim Brotherhood",NA
+"578",201106050020,2011,6,5,10,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"579",201106050021,2011,6,5,0,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"580",201106060001,2011,6,6,15,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"581",201106120003,2011,6,12,2,6,"Niger","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"582",201106130016,2011,6,13,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"583",201106150004,2011,6,15,3,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"584",201106280003,2011,6,28,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"585",201106290012,2011,6,29,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"586",201107020007,2011,7,2,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"587",201107040008,2011,7,4,19,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"588",201107040023,2011,7,4,2,1,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"589",201107050001,2011,7,5,0,4,"Mauritania","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"590",201107060013,2011,7,6,10,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"591",201107060014,2011,7,6,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"592",201107140009,2011,7,14,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"593",201107160006,2011,7,16,NA,NA,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"594",201107200006,2011,7,20,1,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"595",201107240007,2011,7,24,6,25,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"596",201107260003,2011,7,26,12,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"597",201108130011,2011,8,13,1,0,"Pakistan","Al-Qaida",NA,NA,NA
+"598",201108140012,2011,8,14,14,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"599",201108160012,2011,8,16,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"600",201108170007,2011,8,17,2,2,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"601",201108170008,2011,8,17,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"602",201108210008,2011,8,21,5,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"603",201108210009,2011,8,21,10,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"604",201108230005,2011,8,23,14,28,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"605",201108240011,2011,8,24,0,6,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"606",201108270008,2011,8,27,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"607",201108270011,2011,8,27,8,6,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"608",201108290003,2011,8,29,36,68,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"609",201108310002,2011,8,31,18,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"610",201109060008,2011,9,6,10,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"611",201109060009,2011,9,6,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"612",201109110004,2011,9,11,2,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"613",201109110005,2011,9,11,6,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"614",201109110006,2011,9,11,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"615",201109140009,2011,9,14,5,41,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"616",201109170003,2011,9,17,1,7,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"617",201109240003,2011,9,24,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"618",201109250004,2011,9,25,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"619",201109250010,2011,9,25,3,29,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"620",201109250011,2011,9,25,3,28,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"621",201109250012,2011,9,25,3,28,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"622",201109270012,2011,9,27,4,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"623",201109270013,2011,9,27,1,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"624",201110010001,2011,10,1,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"625",201110030002,2011,10,3,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"626",201110110010,2011,10,11,1,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"627",201110110012,2011,10,11,0,4,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"628",201110150010,2011,10,15,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"629",201110280005,2011,10,28,1,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"630",201111030057,2011,11,3,0,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"631",201111090033,2011,11,10,2,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"632",201111110004,2011,11,11,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"633",201111110021,2011,11,11,0,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"634",201111160043,2011,11,16,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"635",201111190023,2011,11,19,1,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"636",201111210004,2011,11,20,0,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"637",201111210036,2011,11,21,2,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"638",201111240026,2011,11,24,1,0,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"639",201111250020,2011,11,25,1,0,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"640",201111290044,2011,11,29,5,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"641",201111300021,2011,11,30,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"642",201112030011,2011,12,2,1,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"643",201112040008,2011,12,4,5,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"644",201112040042,2011,12,4,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"645",201112070041,2011,12,7,10,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"646",201112090008,2011,12,9,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"647",201112160002,2011,12,16,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"648",201112220001,2011,12,22,2,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"649",201112220003,2011,12,22,3,9,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"650",201112220004,2011,12,22,5,14,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"651",201112220009,2011,12,22,7,21,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"652",201112220010,2011,12,22,18,44,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"653",201112220011,2011,12,22,1,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"654",201112220012,2011,12,22,1,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"655",201112220013,2011,12,22,0,8,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"656",201112220014,2011,12,22,3,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"657",201112220015,2011,12,22,4,14,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"658",201112220020,2011,12,22,2,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"659",201112220021,2011,12,22,5,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"660",201112220033,2011,12,22,0,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"661",201112220042,2011,12,22,1,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"662",201112230011,2011,12,23,23,83,"Syria","Al-Qaida in Iraq",NA,NA,NA
+"663",201112230021,2011,12,23,23,83,"Syria","Al-Qaida in Iraq",NA,NA,NA
+"664",201112310005,2011,12,31,5,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"665",201201050028,2012,1,5,0,2,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"666",201201110011,2012,1,11,1,7,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"667",201201150008,2012,1,15,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"668",201201160020,2012,1,16,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"669",201201180025,2012,1,18,0,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"670",201201200012,2012,1,20,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"671",201201230005,2012,1,23,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"672",201201240021,2012,1,24,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"673",201201260012,2012,1,26,1,0,"Nigeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,"Boko Haram",NA
+"674",201201270019,2012,1,27,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"675",201201280024,2012,1,28,5,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"676",201202010031,2012,2,1,3,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"677",201202070028,2012,2,7,2,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"678",201202110023,2012,2,11,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"679",201202140013,2012,2,14,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"680",201202140020,2012,2,14,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"681",201202150010,2012,2,15,5,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"682",201202150014,2012,2,15,1,7,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"683",201202160014,2012,2,16,0,11,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"684",201202190004,2012,2,19,16,21,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"685",201202190011,2012,2,19,4,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"686",201202230001,2012,2,23,1,11,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"687",201202230002,2012,2,23,6,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"688",201202230003,2012,2,23,2,9,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"689",201202230004,2012,2,23,6,15,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"690",201202230005,2012,2,23,7,32,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"691",201202230006,2012,2,23,3,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"692",201202230007,2012,2,23,1,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"693",201202230008,2012,2,23,0,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"694",201202230009,2012,2,23,2,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"695",201202230010,2012,2,23,3,8,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"696",201202230011,2012,2,23,3,8,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"697",201202230012,2012,2,23,1,60,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"698",201202230013,2012,2,23,0,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"699",201202230014,2012,2,23,0,8,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"700",201202230015,2012,2,23,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"701",201202230016,2012,2,23,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"702",201202230017,2012,2,23,1,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"703",201202230018,2012,2,23,2,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"704",201202230019,2012,2,23,0,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"705",201202230021,2012,2,23,2,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"706",201202230022,2012,2,23,1,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"707",201202230023,2012,2,23,1,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"708",201202230025,2012,2,23,2,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"709",201202230027,2012,2,23,0,8,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"710",201202230028,2012,2,23,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"711",201202230029,2012,2,23,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"712",201202230030,2012,2,23,0,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"713",201202230045,2012,2,23,0,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"714",201202230046,2012,2,23,0,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"715",201202230049,2012,2,23,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"716",201202230050,2012,2,23,2,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"717",201202230054,2012,2,23,2,9,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"718",201202250002,2012,2,25,31,50,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"719",201202290014,2012,2,29,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"720",201203010031,2012,2,29,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"721",201203010032,2012,3,1,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"722",201203030010,2012,3,3,3,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"723",201203030028,2012,3,3,1,10,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"724",201203030029,2012,3,3,0,10,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"725",201203040008,2012,3,4,210,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"726",201203040009,2012,3,4,22,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"727",201203040010,2012,3,4,5,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"728",201203040022,2012,3,3,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"729",201203040024,2012,3,4,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"730",201203050001,2012,3,5,2,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"731",201203050002,2012,3,5,14,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"732",201203050003,2012,3,5,2,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"733",201203050004,2012,3,5,14,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"734",201203050020,2012,3,5,1,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"735",201203050024,2012,3,5,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"736",201203050025,2012,3,5,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"737",201203060024,2012,3,6,1,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"738",201203070001,2012,3,7,7,8,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"739",201203070002,2012,3,7,8,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"740",201203080011,2012,3,8,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"741",201203090009,2012,3,9,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"742",201203100014,2012,3,10,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"743",201203110008,2012,3,11,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"744",201203130014,2012,3,13,7,7,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"745",201203130033,2012,3,13,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"746",201203140009,2012,3,14,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"747",201203140010,2012,3,14,1,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"748",201203140016,2012,3,14,1,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"749",201203160015,2012,3,16,0,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"750",201203170031,2012,3,17,0,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"751",201203180004,2012,3,18,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"752",201203190007,2012,3,19,1,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"753",201203200001,2012,3,20,3,8,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"754",201203200002,2012,3,20,7,24,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"755",201203200003,2012,3,20,7,21,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"756",201203200004,2012,3,20,6,21,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"757",201203200005,2012,3,20,3,31,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"758",201203200006,2012,3,20,3,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"759",201203200008,2012,3,20,2,27,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"760",201203200009,2012,3,20,0,8,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"761",201203200010,2012,3,20,0,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"762",201203200011,2012,3,20,6,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"763",201203200012,2012,3,20,0,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"764",201203200013,2012,3,20,6,28,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"765",201203200014,2012,3,20,1,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"766",201203200017,2012,3,20,0,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"767",201203200018,2012,3,20,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"768",201203200019,2012,3,20,6,24,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"769",201203200020,2012,3,20,3,12,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"770",201203220010,2012,3,21,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"771",201203220019,2012,3,22,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"772",201203240012,2012,3,24,1,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"773",201203280005,2012,3,28,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"774",201203300002,2012,3,30,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"775",201203300006,2012,3,30,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"776",201203300013,2012,3,30,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"777",201203310008,2012,3,31,29,13,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"778",201203310009,2012,3,31,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"779",201203310022,2012,3,31,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"780",201203310023,2012,3,31,3,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"781",201204010001,2012,4,1,7,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"782",201204020026,2012,4,2,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"783",201204030002,2012,4,2,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"784",201204060013,2012,4,6,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"785",201204060014,2012,4,6,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"786",201204080010,2012,4,8,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"787",201204090023,2012,4,9,57,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"788",201204100001,2012,4,10,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"789",201204100014,2012,4,10,8,6,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"790",201204110022,2012,4,11,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"791",201204120023,2012,4,12,3,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"792",201204120024,2012,4,12,8,6,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"793",201204140004,2012,4,14,12,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"794",201204150001,2012,4,15,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"795",201204150002,2012,4,15,3,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"796",201204150041,2012,4,15,5,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"797",201204150042,2012,4,15,8,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"798",201204170003,2012,4,17,6,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"799",201204180067,2012,4,18,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"800",201204190002,2012,4,19,2,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"801",201204190003,2012,4,19,2,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"802",201204190004,2012,4,19,2,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"803",201204190005,2012,4,19,2,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"804",201204190006,2012,4,19,2,11,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"805",201204190007,2012,4,19,4,23,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"806",201204190008,2012,4,19,5,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"807",201204190010,2012,4,19,2,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"808",201204190011,2012,4,19,1,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"809",201204190012,2012,4,19,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"810",201204190013,2012,4,19,3,11,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"811",201204190014,2012,4,19,2,8,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"812",201204190015,2012,4,19,1,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"813",201204190017,2012,4,19,3,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"814",201204190018,2012,4,19,1,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"815",201204190019,2012,4,19,0,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"816",201204190020,2012,4,19,2,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"817",201204190021,2012,4,19,6,9,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"818",201204190022,2012,4,19,1,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"819",201204190023,2012,4,19,2,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"820",201204190024,2012,4,19,1,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"821",201204190025,2012,4,19,3,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"822",201204190026,2012,4,19,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"823",201204190027,2012,4,19,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"824",201204190028,2012,4,19,6,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"825",201204190029,2012,4,19,1,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"826",201204190030,2012,4,19,1,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"827",201204190031,2012,4,19,1,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"828",201204190032,2012,4,19,1,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"829",201204190033,2012,4,19,1,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"830",201204190034,2012,4,19,0,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"831",201204190035,2012,4,19,0,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"832",201204190036,2012,4,19,0,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"833",201204190037,2012,4,19,0,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"834",201204190038,2012,4,19,1,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"835",201204190039,2012,4,19,0,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"836",201204190040,2012,4,19,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"837",201204190041,2012,4,19,2,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"838",201204190042,2012,4,19,2,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"839",201204190043,2012,4,19,2,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"840",201204190046,2012,4,19,0,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"841",201204190047,2012,4,19,0,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"842",201204190048,2012,4,19,0,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"843",201204210003,2012,4,21,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"844",201204210009,2012,4,21,8,13,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"845",201204210010,2012,4,21,2,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"846",201204220016,2012,4,22,6,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"847",201204260003,2012,4,26,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"848",201204260027,2012,4,26,1,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"849",201204280003,2012,4,28,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"850",201204300016,2012,4,30,15,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"851",201205010012,2012,5,1,2,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"852",201205020040,2012,5,2,1,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"853",201205020042,2012,5,2,4,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"854",201205050008,2012,5,5,1,1,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"855",201205050011,2012,5,5,0,10,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"856",201205070004,2012,5,7,0,1,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"857",201205070010,2012,5,7,20,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"858",201205080012,2012,5,8,0,1,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"859",201205080013,2012,5,8,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"860",201205080014,2012,5,8,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"861",201205080016,2012,5,8,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"862",201205090006,2012,5,9,6,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"863",201205090009,2012,5,9,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"864",201205120008,2012,5,12,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"865",201205120011,2012,5,12,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"866",201205130011,2012,5,13,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"867",201205140030,2012,5,13,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"868",201205150019,2012,5,15,0,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"869",201205190010,2012,5,19,0,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"870",201205200009,2012,5,20,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"871",201205210002,2012,5,21,97,300,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"872",201205250005,2012,5,25,0,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia/Company of Um al-Mu'minin [Mother of the Believers] A'isha",NA,NA
+"873",201205250011,2012,5,25,15,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"874",201205250015,2012,5,25,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"875",201205290029,2012,5,29,6,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"876",201205300007,2012,5,30,25,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"877",201205300010,2012,5,30,1,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"878",201206020016,2012,6,2,5,6,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"879",201206040004,2012,6,4,26,65,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"880",201206040009,2012,6,4,6,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"881",201206040010,2012,6,4,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"882",201206050009,2012,6,5,4,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"883",201206060021,2012,6,6,2,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"884",201206060022,2012,6,6,4,10,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"885",201206060025,2012,6,6,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"886",201206070007,2012,6,7,0,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"887",201206080017,2012,6,8,11,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"888",201206110028,2012,6,8,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"889",201206130005,2012,6,14,9,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"890",201206130006,2012,6,13,20,38,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"891",201206130007,2012,6,13,9,21,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"892",201206130008,2012,6,13,7,20,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"893",201206130009,2012,6,13,7,11,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"894",201206130010,2012,6,13,1,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"895",201206130011,2012,6,13,3,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"896",201206130012,2012,6,13,0,14,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"897",201206130013,2012,6,13,1,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"898",201206130014,2012,6,13,1,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"899",201206130015,2012,6,13,1,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"900",201206130016,2012,6,13,1,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"901",201206130017,2012,6,13,1,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"902",201206130018,2012,6,13,0,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"903",201206130019,2012,6,13,3,11,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"904",201206130020,2012,6,13,2,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"905",201206130021,2012,6,13,2,9,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"906",201206130022,2012,6,13,2,9,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"907",201206130023,2012,6,13,2,12,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"908",201206130024,2012,6,13,1,12,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"909",201206130025,2012,6,13,3,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"910",201206130026,2012,6,13,0,37,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"911",201206130027,2012,6,13,NA,9,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"912",201206130028,2012,6,13,1,9,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"913",201206130029,2012,6,13,0,9,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"914",201206130030,2012,6,13,5,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"915",201206130031,2012,6,13,0,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"916",201206130032,2012,6,13,0,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"917",201206130038,2012,6,13,0,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"918",201206140005,2012,6,14,15,7,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"919",201206160004,2012,6,16,18,36,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"920",201206160005,2012,6,16,14,32,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"921",201206170006,2012,6,17,1,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"922",201206180001,2012,6,18,16,40,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"923",201206180015,2012,6,18,4,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"924",201206190013,2012,6,19,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"925",201206280017,2012,6,28,3,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"926",201206280027,2012,6,28,6,51,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"927",201206290019,2012,6,29,4,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"928",201207010007,2012,7,1,1,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"929",201207010015,2012,7,1,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"930",201207020023,2012,7,2,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"931",201207030001,2012,7,3,25,40,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"932",201207040025,2012,7,4,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"933",201207110001,2012,7,11,11,20,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"934",201207150004,2012,7,15,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"935",201207160009,2012,7,16,4,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"936",201207160010,2012,7,16,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"937",201207180008,2012,7,18,1,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"938",201207190013,2012,7,19,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"939",201207190022,2012,7,19,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"940",201207220028,2012,7,22,0,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"941",201207230005,2012,7,23,15,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"942",201207230006,2012,7,23,11,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"943",201207230007,2012,7,23,12,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"944",201207230008,2012,7,23,10,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"945",201207230009,2012,7,23,10,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"946",201207230010,2012,7,23,3,31,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"947",201207230011,2012,7,23,12,22,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"948",201207230012,2012,7,23,1,12,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"949",201207230013,2012,7,23,0,12,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"950",201207230014,2012,7,23,0,11,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"951",201207230015,2012,7,23,1,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"952",201207230017,2012,7,23,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"953",201207230018,2012,7,23,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"954",201207230021,2012,7,23,5,20,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"955",201207230022,2012,7,23,3,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"956",201207230023,2012,7,23,2,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"957",201207230024,2012,7,23,1,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"958",201207230025,2012,7,23,1,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"959",201207230026,2012,7,23,1,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"960",201207230027,2012,7,23,3,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"961",201207230028,2012,7,23,1,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"962",201207230029,2012,7,23,3,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"963",201207230030,2012,7,23,0,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"964",201207230031,2012,7,23,1,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"965",201207230032,2012,7,23,1,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"966",201207230033,2012,7,23,1,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"967",201207230034,2012,7,23,1,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"968",201207230035,2012,7,23,1,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"969",201207230036,2012,7,23,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"970",201207230037,2012,7,23,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"971",201207230038,2012,7,23,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"972",201207230039,2012,7,23,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"973",201207230040,2012,7,23,4,32,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"974",201207230041,2012,7,23,2,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"975",201207230042,2012,7,23,2,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"976",201207230043,2012,7,23,0,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"977",201207230044,2012,7,23,0,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"978",201207230045,2012,7,23,0,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"979",201207230046,2012,7,23,0,9,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"980",201207230047,2012,7,23,2,24,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"981",201207230048,2012,7,23,NA,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"982",201207250010,2012,7,25,2,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"983",201207250018,2012,7,25,5,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"984",201207260022,2012,7,26,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"985",201207270020,2012,7,27,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"986",201207300011,2012,7,30,0,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"987",201207310002,2012,7,31,11,13,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"988",201207310003,2012,7,31,10,12,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"989",201207310006,2012,7,31,NA,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"990",201208010018,2012,8,1,4,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"991",201208010026,2012,8,1,1,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"992",201208030007,2012,8,3,4,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"993",201208040002,2012,8,4,46,40,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"994",201208050025,2012,8,5,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"995",201208080010,2012,8,8,1,6,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"996",201208080024,2012,8,8,8,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"997",201208090003,2012,8,9,2,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"998",201208100015,2012,8,10,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"999",201208110005,2012,8,11,6,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1000",201208120010,2012,8,12,8,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1001",201208120011,2012,8,12,0,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1002",201208150003,2012,8,15,3,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1003",201208150033,2012,8,15,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"1004",201208150051,2012,8,15,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1005",201208160002,2012,8,16,6,32,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1006",201208160005,2012,8,16,3,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1007",201208160006,2012,8,16,3,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1008",201208160007,2012,8,16,14,28,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1009",201208160008,2012,8,16,13,28,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1010",201208160009,2012,8,16,16,49,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1011",201208160010,2012,8,16,10,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1012",201208160011,2012,8,16,7,25,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1013",201208160012,2012,8,16,1,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1014",201208160013,2012,8,16,1,15,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1015",201208160014,2012,8,16,0,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1016",201208160015,2012,8,16,4,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1017",201208160016,2012,8,16,0,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1018",201208160045,2012,8,16,4,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1019",201208170016,2012,8,17,0,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1020",201208180004,2012,8,18,14,7,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1021",201208190002,2012,8,19,2,6,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1022",201208210002,2012,8,21,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1023",201208210009,2012,8,21,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1024",201208210010,2012,8,21,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1025",201208220018,2012,8,22,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1026",201208300004,2012,8,30,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1027",201209050036,2012,9,5,2,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1028",201209080004,2012,9,8,6,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1029",201209080005,2012,9,8,5,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1030",201209080006,2012,9,8,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1031",201209080007,2012,9,8,0,15,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1032",201209080008,2012,9,8,0,15,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1033",201209080009,2012,9,8,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1034",201209080010,2012,9,8,0,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1035",201209090002,2012,9,9,14,60,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1036",201209090003,2012,9,9,13,32,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1037",201209090004,2012,9,9,5,38,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1038",201209090005,2012,9,9,4,13,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1039",201209090006,2012,9,9,3,14,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1040",201209090007,2012,9,9,7,21,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1041",201209090008,2012,9,9,9,30,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1042",201209090009,2012,9,9,3,43,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1043",201209090010,2012,9,9,7,40,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1044",201209090011,2012,9,9,0,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1045",201209090012,2012,9,9,0,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1046",201209090013,2012,9,9,1,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1047",201209090014,2012,9,9,0,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1048",201209090015,2012,9,9,0,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1049",201209090016,2012,9,9,0,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1050",201209090017,2012,9,9,1,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1051",201209090018,2012,9,9,0,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1052",201209090019,2012,9,9,0,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1053",201209090020,2012,9,9,0,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1054",201209090021,2012,9,9,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1055",201209090022,2012,9,9,1,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1056",201209090023,2012,9,9,2,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1057",201209090024,2012,9,9,1,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1058",201209090025,2012,9,9,3,21,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1059",201209090026,2012,9,9,2,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1060",201209090027,2012,9,9,2,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1061",201209090028,2012,9,9,2,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1062",201209090029,2012,9,9,0,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1063",201209090031,2012,9,9,0,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1064",201209090032,2012,9,9,5,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1065",201209090033,2012,9,9,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1066",201209090034,2012,9,9,0,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1067",201209090035,2012,9,9,2,20,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1068",201209090048,2012,9,9,1,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1069",201209090049,2012,9,9,0,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1070",201209090050,2012,9,9,2,8,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1071",201209110004,2012,9,11,12,12,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"1072",201209110022,2012,9,11,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1073",201209120005,2012,9,12,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1074",201209140013,2012,9,14,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1075",201209160024,2012,9,16,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1076",201209160025,2012,9,16,1,6,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1077",201209180021,2012,9,18,2,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1078",201209220001,2012,9,22,1,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1079",201209240005,2012,9,24,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1080",201209240016,2012,9,25,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1081",201209260010,2012,9,26,7,15,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1082",201209270002,2012,9,27,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1083",201209270004,2012,9,27,13,34,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1084",201209290005,2012,9,29,3,7,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1085",201209300006,2012,9,30,3,11,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1086",201209300007,2012,9,30,2,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1087",201209300008,2012,9,30,2,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1088",201209300009,2012,9,30,2,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1089",201209300010,2012,9,30,2,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1090",201209300011,2012,9,30,2,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1091",201209300012,2012,9,30,6,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1092",201209300013,2012,9,30,1,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1093",201209300014,2012,9,30,1,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1094",201209300015,2012,9,30,0,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1095",201209300016,2012,9,30,2,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1096",201209300017,2012,9,30,1,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1097",201209300018,2012,9,30,0,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1098",201209300019,2012,9,30,2,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1099",201210020016,2012,10,2,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1100",201210030020,2012,10,3,2,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1101",201210060005,2012,10,6,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1102",201210090024,2012,10,9,4,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1103",201210100003,2012,10,10,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1104",201210110008,2012,10,11,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1105",201210130011,2012,10,13,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1106",201210150017,2012,10,15,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1107",201210160012,2012,10,16,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1108",201210160013,2012,10,16,4,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1109",201210180018,2012,10,18,2,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1110",201210190011,2012,10,19,22,15,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1111",201210200026,2012,10,20,0,7,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1112",201210230013,2012,10,23,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1113",201210250002,2012,10,25,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1114",201210270002,2012,10,27,5,12,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1115",201210270003,2012,10,27,23,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1116",201210270004,2012,10,27,7,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1117",201210270005,2012,10,27,8,25,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1118",201210270006,2012,10,27,1,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1119",201210270007,2012,10,27,1,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1120",201210270008,2012,10,27,3,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1121",201210270009,2012,10,27,2,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1122",201210270010,2012,10,27,0,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1123",201210270011,2012,10,27,0,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1124",201210270012,2012,10,27,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1125",201210270023,2012,10,27,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1126",201210270043,2012,10,27,1,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1127",201210280005,2012,10,28,10,28,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1128",201210280007,2012,10,28,NA,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1129",201210280008,2012,10,28,NA,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1130",201210280018,2012,10,28,1,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1131",201210280019,2012,10,28,1,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1132",201210300001,2012,10,30,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1133",201211020003,2012,11,2,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1134",201211050002,2012,11,5,2,NA,"Saudi Arabia","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1135",201211060010,2012,11,6,29,40,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1136",201211080006,2012,11,8,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1137",201211090016,2012,11,9,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1138",201211130010,2012,11,13,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1139",201211140007,2012,11,14,5,16,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1140",201211160003,2012,11,16,5,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1141",201211200020,2012,11,20,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1142",201211240004,2012,11,24,3,9,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1143",201211250006,2012,11,25,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1144",201211280007,2012,11,28,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1145",201211290006,2012,11,29,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1146",201212020012,2012,12,2,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1147",201212030020,2012,12,3,0,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1148",201212080045,2012,12,8,8,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1149",201212090022,2012,12,9,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1150",201212100018,2012,12,10,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1151",201212110001,2012,12,11,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1152",201212120028,2012,12,12,0,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1153",201212140001,2012,12,14,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1154",201212160015,2012,12,16,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1155",201212170007,2012,12,17,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1156",201212210007,2012,12,21,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1157",201212290002,2012,12,29,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1158",201212310003,2012,12,31,3,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1159",201212310004,2012,12,31,2,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1160",201212310005,2012,12,31,2,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1161",201212310006,2012,12,31,2,17,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1162",201212310007,2012,12,31,5,16,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1163",201212310008,2012,12,31,0,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1164",201212310009,2012,12,31,1,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1165",201212310010,2012,12,31,1,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1166",201212310011,2012,12,31,4,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1167",201212310012,2012,12,31,5,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1168",201212310014,2012,12,31,0,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1169",201212310015,2012,12,31,2,16,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1170",201212310016,2012,12,31,4,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1171",201212310017,2012,12,31,2,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1172",201212310018,2012,12,31,0,6,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1173",201212310019,2012,12,31,0,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1174",201212310024,2012,12,31,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1175",201212310025,2012,12,31,3,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1176",201212310027,2012,12,31,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1177",201301030011,2013,1,3,0,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1178",201301040026,2013,1,4,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1179",201301080033,2013,1,8,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1180",201301100006,2013,1,10,1,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1181",201301150001,2013,1,15,4,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1182",201301150002,2013,1,15,2,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1183",201301150018,2013,1,15,1,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1184",201301160009,2013,1,16,0,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1185",201301160010,2013,1,16,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1186",201301160012,2013,1,16,18,90,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1187",201301160013,2013,1,16,3,28,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1188",201301160014,2013,1,16,5,40,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1189",201301160015,2013,1,16,3,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1190",201301160016,2013,1,16,2,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1191",201301160017,2013,1,16,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1192",201301160018,2013,1,16,0,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1193",201301160019,2013,1,16,2,9,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1194",201301160020,2013,1,16,NA,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1195",201301160021,2013,1,16,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1196",201301160025,2013,1,16,0,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1197",201301160026,2013,1,16,1,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1198",201301160027,2013,1,16,0,3,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1199",201301170007,2013,1,17,6,36,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1200",201301170008,2013,1,17,5,36,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1201",201301170009,2013,1,17,1,16,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1202",201301170010,2013,1,17,5,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1203",201301170011,2013,1,17,2,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1204",201301170012,2013,1,17,1,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1205",201301170013,2013,1,17,1,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1206",201301170014,2013,1,17,1,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1207",201301170015,2013,1,17,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1208",201301170016,2013,1,17,3,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1209",201301170017,2013,1,17,3,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1210",201301170018,2013,1,17,2,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1211",201301170021,2013,1,17,NA,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1212",201301170035,2013,1,17,0,1,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1213",201301230001,2013,1,23,43,75,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1214",201301230018,2013,1,23,1,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1215",201301250004,2013,1,25,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1216",201301270010,2013,1,27,2,7,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)","Katibate El Farouk",NA,NA
+"1217",201301280001,2013,1,28,7,9,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1218",201301280002,2013,1,28,6,7,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1219",201301280003,2013,1,28,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1220",201301290016,2013,1,29,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1221",201302020033,2013,2,2,9,6,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1222",201302030002,2013,2,3,36,70,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1223",201302040014,2013,2,4,4,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1224",201302050004,2013,2,5,5,12,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1225",201302050008,2013,2,5,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1226",201302060024,2013,2,6,NA,NA,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1227",201302060025,2013,2,6,2,9,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1228",201302070020,2013,2,7,0,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"1229",201302100034,2013,2,10,0,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"1230",201302110035,2013,2,11,1,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1231",201302120025,2013,2,12,0,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"1232",201302130009,2013,2,13,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1233",201302160006,2013,2,16,4,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1234",201302170005,2013,2,17,4,11,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1235",201302170006,2013,2,17,4,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1236",201302170007,2013,2,17,4,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1237",201302170008,2013,2,17,4,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1238",201302170009,2013,2,17,4,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1239",201302170010,2013,2,17,4,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1240",201302170011,2013,2,17,4,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1241",201302170012,2013,2,17,3,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1242",201302170013,2013,2,17,3,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1243",201302170014,2013,2,17,3,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1244",201302230003,2013,2,23,3,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1245",201302240019,2013,2,24,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1246",201302260004,2013,2,26,4,15,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1247",201302260010,2013,2,26,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1248",201302280003,2013,2,28,10,30,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1249",201302280004,2013,2,28,9,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1250",201303010004,2013,3,1,5,50,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1251",201303040001,2013,3,4,6,12,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1252",201303040002,2013,3,4,57,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1253",201303040013,2013,3,4,13,15,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1254",201303040031,2013,3,4,13,16,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1255",201303070029,2013,3,7,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1256",201303100039,2013,3,9,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1257",201303140001,2013,3,14,8,13,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1258",201303140002,2013,3,14,8,13,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1259",201303140003,2013,3,14,8,12,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1260",201303140004,2013,3,14,8,12,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1261",201303140014,2013,3,14,2,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1262",201303150006,2013,3,15,9,2,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1263",201303190004,2013,3,19,4,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1264",201303190005,2013,3,19,7,21,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1265",201303190006,2013,3,19,6,15,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1266",201303190007,2013,3,19,2,8,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1267",201303190008,2013,3,19,3,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1268",201303190009,2013,3,19,2,11,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1269",201303190023,2013,3,19,4,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1270",201303190024,2013,3,19,3,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1271",201303190025,2013,3,19,5,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1272",201303190026,2013,3,19,2,5,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1273",201303190027,2013,3,19,4,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1274",201303190028,2013,3,19,0,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1275",201303190029,2013,3,19,5,27,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1276",201303190030,2013,3,19,5,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1277",201303190031,2013,3,19,1,7,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1278",201303190034,2013,3,19,0,10,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1279",201303190035,2013,3,19,1,4,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1280",201303190038,2013,3,19,6,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1281",201303190039,2013,3,19,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1282",201303190040,2013,3,19,0,0,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1283",201303200024,2013,3,20,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1284",201303200027,2013,3,19,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1285",201303220025,2013,3,22,NA,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1286",201303240027,2013,3,24,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1287",201303260002,2013,3,26,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1288",201303280036,2013,3,28,2,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1289",201303300007,2013,3,30,1,1,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1290",201303300032,2013,3,30,26,NA,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1291",201304010003,2013,4,1,3,NA,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1292",201304030018,2013,4,3,1,4,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1293",201304030019,2013,4,3,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1294",201304040011,2013,4,4,0,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1295",201304060010,2013,4,6,23,60,"Iraq","Al-Qaida in Iraq",NA,NA,NA
+"1296",201304120002,2013,4,12,4,4,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,"Ansar al-Dine (Mali)",NA
+"1297",201304130025,2013,4,13,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1298",201304180014,2013,4,18,0,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1299",201304200011,2013,4,20,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1300",201304220024,2013,4,22,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1301",201304230004,2013,4,23,0,3,"Libya","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1302",201304230020,2013,4,23,12,12,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1303",201304240015,2013,4,24,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1304",201304250027,2013,4,22,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1305",201304270009,2013,4,27,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1306",201304270010,2013,4,27,5,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1307",201304300016,2013,4,30,1,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1308",201304300018,2013,4,30,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1309",201305030032,2013,5,3,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1310",201305080023,2013,5,8,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"1311",201305090021,2013,5,9,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1312",201305180014,2013,5,17,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1313",201305240015,2013,5,24,5,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1314",201305250007,2013,5,25,2,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1315",201305260004,2013,5,26,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1316",201305270010,2013,5,27,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1317",201305270057,2013,5,27,0,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1318",201306010001,2013,6,1,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1319",201306020009,2013,6,2,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1320",201306020010,2013,6,2,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1321",201306040006,2013,6,4,1,1,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,"Ansar al-Dine (Mali)",NA
+"1322",201306110016,2013,6,11,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1323",201307030031,2013,7,3,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1324",201307080023,2013,7,8,1,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1325",201307080064,2013,7,11,2,1,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1326",201307150023,2013,7,15,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"1327",201307150031,2013,7,15,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1328",201307200029,2013,7,19,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1329",201307210017,2013,7,21,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1330",201307210018,2013,7,21,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1331",201307230056,2013,7,23,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1332",201307260043,2013,7,26,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1333",201308010012,2013,8,1,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1334",201308040021,2013,8,4,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1335",201308070044,2013,8,7,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1336",201308070050,2013,8,7,4,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1337",201308090025,2013,8,9,4,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1338",201308110006,2013,8,11,5,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1339",201308210013,2013,8,21,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1340",201308230003,2013,8,23,3,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1341",201308240029,2013,8,24,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1342",201308250003,2013,8,25,6,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1343",201308290018,2013,8,29,0,8,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1344",201308310005,2013,8,31,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1345",201309010001,2013,9,1,0,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1346",201309030010,2013,9,3,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1347",201309030048,2013,9,3,5,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1348",201309050003,2013,9,5,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1349",201309060001,2013,9,6,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1350",201309060026,2013,9,6,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1351",201309090004,2013,9,9,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1352",201309090005,2013,9,9,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1353",201309090006,2013,9,9,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1354",201309090035,2013,9,9,0,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1355",201309090045,2013,9,9,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"1356",201309100003,2013,9,10,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1357",201309120003,2013,9,12,0,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1358",201309130003,2013,9,13,2,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1359",201309150023,2013,9,15,0,6,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1360",201309180036,2013,9,18,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1361",201309200006,2013,9,20,39,20,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1362",201309200007,2013,9,20,8,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1363",201309200008,2013,9,20,11,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1364",201309200009,2013,9,20,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1365",201309220031,2013,9,22,8,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1366",201309230002,2013,9,23,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1367",201309240008,2013,9,24,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1368",201309250008,2013,9,25,2,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1369",201309280001,2013,9,28,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1370",201309280007,2013,9,28,4,6,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1371",201309290040,2013,9,29,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1372",201309300018,2013,9,30,5,9,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1373",201310020024,2013,10,2,4,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1374",201310060005,2013,10,6,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1375",201310060006,2013,10,6,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1376",201310070041,2013,10,7,4,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1377",201310090067,2013,10,9,2,1,"Pakistan","Al-Qaida in the Indian Subcontinent",NA,NA,NA
+"1378",201310100019,2013,10,10,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1379",201310110013,2013,10,11,1,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1380",201310150027,2013,10,15,3,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1381",201310150030,2013,10,15,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1382",201310170035,2013,10,17,1,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1383",201310170036,2013,10,17,0,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1384",201310170037,2013,10,17,8,21,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1385",201310170038,2013,10,17,0,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1386",201310170039,2013,10,17,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1387",201310180008,2013,10,18,8,7,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1388",201310190003,2013,10,19,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1389",201310190024,2013,10,19,0,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1390",201310210031,2013,10,21,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1391",201310240038,2013,10,24,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1392",201310300015,2013,10,30,0,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1393",201310310013,2013,10,31,3,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1394",201311020001,2013,11,2,2,0,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1395",201311020043,2013,11,2,4,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1396",201311030029,2013,11,3,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1397",201311040033,2013,11,4,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1398",201311040089,2013,11,4,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1399",201311180023,2013,11,18,8,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1400",201311190054,2013,11,19,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1401",201311240013,2013,11,24,4,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1402",201311260011,2013,11,26,1,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1403",201312020034,2013,12,2,9,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1404",201312030008,2013,12,3,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1405",201312050016,2013,12,5,68,215,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1406",201312080009,2013,12,8,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1407",201312080024,2013,12,8,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1408",201312080029,2013,12,8,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,"Tribesmen",NA
+"1409",201312100005,2013,12,10,2,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1410",201312210035,2013,12,21,1,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1411",201312210049,2013,12,21,1,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1412",201312260025,2013,12,26,4,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1413",201312270036,2013,12,27,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1414",201312310015,2013,12,31,1,7,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1415",201312310019,2013,12,31,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1416",201312310020,2013,12,31,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1417",201401020009,2014,1,2,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1418",201401120028,2014,1,12,4,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,"Hadramawt Tribes Alliance",NA
+"1419",201401140023,2014,1,14,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1420",201401160005,2014,1,16,4,8,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1421",201401160006,2014,1,16,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1422",201401160008,2014,1,16,8,10,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1423",201401260021,2014,1,26,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1424",201402030023,2014,2,3,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1425",201402050009,2014,2,5,4,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1426",201402050010,2014,2,5,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1427",201402060001,2014,2,6,0,0,"Libya","Al-Qaqa Brigade",NA,NA,NA
+"1428",201402090023,2014,2,9,1,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1429",201402130016,2014,2,13,13,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1430",201402150024,2014,2,15,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1431",201402150090,2014,2,14,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1432",201402180011,2014,2,18,2,10,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1433",201402190026,2014,2,19,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1434",201402190083,2014,2,19,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1435",201402220016,2014,2,22,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1436",201402230023,2014,2,23,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"1437",201402260016,2014,2,26,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1438",201403020020,2014,3,3,1,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1439",201403030012,2014,3,3,3,7,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1440",201403030013,2014,3,3,3,7,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1441",201403040021,2014,2,26,4,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1442",201403040027,2014,3,4,2,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1443",201403060015,2014,3,6,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1444",201403060029,2014,3,6,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1445",201403080060,2014,3,8,6,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1446",201403100004,2014,3,10,0,6,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1447",201403100055,2014,3,10,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1448",201403110007,2014,3,11,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1449",201403110008,2014,3,11,0,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1450",201403160001,2014,3,17,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"1451",201403160039,2014,3,16,0,4,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1452",201403180007,2014,3,18,2,13,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1453",201403210082,2014,3,21,4,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,"Southern Mobility Movement (Yemen)",NA
+"1454",201403240004,2014,3,24,21,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1455",201403250022,2014,3,25,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1456",201403260049,2014,3,26,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1457",201403260053,2014,3,26,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1458",201403300037,2014,3,30,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1459",201404010016,2014,4,1,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1460",201404010017,2014,4,1,4,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1461",201404020003,2014,4,2,11,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1462",201404040047,2014,4,4,8,11,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1463",201404070001,2014,4,7,0,0,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,"Movement for Oneness and Jihad in West Africa (MUJAO)",NA
+"1464",201404070002,2014,4,7,0,0,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,"Movement for Oneness and Jihad in West Africa (MUJAO)",NA
+"1465",201404080035,2014,4,8,5,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1466",201404080041,2014,4,8,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1467",201404110058,2014,4,11,1,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1468",201404120040,2014,4,12,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1469",201404130002,2014,4,12,0,1,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1470",201404130046,2014,4,13,1,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1471",201404130062,2014,4,13,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1472",201404150026,2014,4,15,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"1473",201404170033,2014,4,17,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1474",201404170056,2014,4,17,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1475",201404190012,2014,4,19,11,5,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1476",201404210013,2014,4,21,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1477",201404210014,2014,4,21,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1478",201404210015,2014,4,21,0,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1479",201404220015,2014,4,22,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1480",201404240001,2014,4,24,2,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,"Tribesmen",NA
+"1481",201404240008,2014,4,24,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1482",201404240025,2014,4,24,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1483",201404290002,2014,4,28,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1484",201404290038,2014,4,29,12,8,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1485",201405010016,2014,5,1,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1486",201405010018,2014,5,1,10,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1487",201405010037,2014,5,1,8,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1488",201405020018,2014,5,2,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1489",201405020040,2014,5,2,1,0,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,"Movement for Oneness and Jihad in West Africa (MUJAO)",NA
+"1490",201405030019,2014,5,3,1,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1491",201405030048,2014,5,3,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1492",201405040027,2014,5,4,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1493",201405040028,2014,5,4,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1494",201405040029,2014,5,4,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1495",201405040031,2014,5,4,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1496",201405050008,2014,5,5,1,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1497",201405050010,2014,5,5,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1498",201405050011,2014,5,5,0,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1499",201405070014,2014,5,7,3,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1500",201405070056,2014,5,7,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1501",201405090008,2014,5,9,8,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1502",201405090009,2014,5,9,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1503",201405090010,2014,5,9,0,11,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1504",201405090013,2014,5,9,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1505",201405090016,2014,5,9,6,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1506",201405100010,2014,5,10,0,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1507",201405100029,2014,5,10,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1508",201405110004,2014,5,11,4,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1509",201405110006,2014,5,11,12,15,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1510",201405120068,2014,5,12,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1511",201405140012,2014,5,14,3,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1512",201405140013,2014,5,14,10,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1513",201405140014,2014,5,14,8,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1514",201405170054,2014,5,17,7,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1515",201405190020,2014,5,19,2,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1516",201405210028,2014,5,21,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1517",201405210053,2014,5,21,5,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1518",201405220002,2014,5,22,4,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1519",201405220016,2014,5,23,4,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1520",201405220023,2014,5,22,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1521",201405220031,2014,5,22,4,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1522",201405220085,2014,5,22,5,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1523",201405240124,2014,5,24,3,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1524",201405240157,2014,5,24,3,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1525",201405240158,2014,5,24,3,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1526",201405240159,2014,5,24,3,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1527",201405240160,2014,5,24,3,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1528",201405240161,2014,5,24,3,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1529",201405240162,2014,5,24,3,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1530",201405240163,2014,5,24,4,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1531",201405250031,2014,5,25,2,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1532",201405260022,2014,5,26,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1533",201405270015,2014,5,27,4,1,"Tunisia","Al-Qaida in the Islamic Maghreb (AQIM)",NA,"Okba Ibn Nafaa Brigade",NA
+"1534",201405290025,2014,5,29,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1535",201405310013,2014,5,31,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1536",201406050026,2014,6,5,11,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1537",201406070020,2014,6,7,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1538",201406080049,2014,6,8,1,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1539",201406100025,2014,6,10,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1540",201406100038,2014,6,10,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1541",201406100039,2014,6,10,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1542",201406100073,2014,6,10,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1543",201406100074,2014,6,10,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1544",201406100075,2014,6,10,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1545",201406110068,2014,6,11,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1546",201406140020,2014,6,14,6,10,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1547",201406140021,2014,6,14,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1548",201406150015,2014,6,15,8,12,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1549",201406180028,2014,6,18,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1550",201406210001,2014,6,19,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1551",201406210005,2014,6,21,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1552",201406210027,2014,6,21,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1553",201406210028,2014,6,21,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1554",201406210040,2014,6,21,1,2,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1555",201406220009,2014,6,22,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1556",201406250035,2014,6,25,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1557",201406260015,2014,6,26,3,12,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1558",201406260016,2014,6,26,9,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1559",201406260017,2014,6,26,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1560",201406270044,2014,6,26,9,8,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1561",201406280034,2014,6,28,5,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1562",201406300020,2014,6,30,1,6,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1563",201406300065,2014,6,30,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1564",201407020026,2014,7,2,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1565",201407020050,2014,7,4,1,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1566",201407030065,2014,7,3,2,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1567",201407030066,2014,7,3,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1568",201407040051,2014,7,4,6,1,"Saudi Arabia","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1569",201407050010,2014,7,5,3,0,"Saudi Arabia","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1570",201407050011,2014,7,5,1,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1571",201407060001,2014,7,6,6,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1572",201407080063,2014,7,7,2,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1573",201407080066,2014,7,8,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1574",201407100052,2014,7,10,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1575",201407110034,2014,7,11,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1576",201407110062,2014,7,11,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1577",201407120035,2014,7,12,7,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1578",201407150017,2014,7,15,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1579",201407150018,2014,7,15,1,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1580",201407160046,2014,7,16,2,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1581",201407180035,2014,7,17,3,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1582",201407200075,2014,7,20,NA,NA,"Libya","Al-Qaqa Brigade",NA,NA,NA
+"1583",201407230023,2014,7,23,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1584",201407240038,2014,7,24,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1585",201407240040,2014,7,24,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1586",201407250015,2014,7,25,4,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1587",201407270017,2014,7,27,4,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1588",201407270018,2014,7,27,4,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1589",201407270019,2014,7,27,4,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1590",201407280049,2014,7,28,0,6,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1591",201407290017,2014,7,29,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1592",201408020008,2014,8,2,4,7,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1593",201408030026,2014,8,3,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1594",201408040008,2014,8,4,6,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1595",201408040026,2014,8,4,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1596",201408060008,2014,8,6,5,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1597",201408060009,2014,8,6,3,6,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1598",201408060023,2014,8,6,20,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1599",201408070009,2014,8,7,7,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1600",201408070029,2014,8,7,7,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1601",201408070030,2014,8,7,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1602",201408070031,2014,8,7,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1603",201408080006,2014,8,8,14,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"1604",201408100027,2014,8,9,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1605",201408100028,2014,8,9,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1606",201408100029,2014,8,9,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1607",201408100030,2014,8,9,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1608",201408100032,2014,8,8,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1609",201408130002,2014,8,13,8,34,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1610",201408140006,2014,8,14,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1611",201408140027,2014,8,14,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1612",201408140080,2014,8,14,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1613",201408150007,2014,8,14,3,7,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1614",201408150008,2014,8,14,2,6,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1615",201408160001,2014,8,16,3,7,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1616",201408180010,2014,8,19,NA,NA,"Libya","Al-Qaqa Brigade",NA,"Al-Sawaiq Brigade",NA
+"1617",201408180011,2014,8,19,1,0,"Libya","Al-Qaqa Brigade",NA,"Al-Sawaiq Brigade",NA
+"1618",201408200015,2014,8,20,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1619",201408200040,2014,8,20,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1620",201408230011,2014,8,23,3,6,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1621",201408230012,2014,8,23,1,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1622",201408250002,2014,8,24,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1623",201408260030,2014,8,26,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1624",201408280017,2014,8,28,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1625",201408290011,2014,8,29,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1626",201408290012,2014,8,27,3,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1627",201408300014,2014,8,30,15,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1628",201408300015,2014,8,30,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1629",201408310026,2014,8,31,4,10,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1630",201408310027,2014,8,31,6,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1631",201408310028,2014,8,31,2,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1632",201409010008,2014,9,1,0,0,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1633",201409010009,2014,9,1,0,4,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1634",201409010011,2014,9,1,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1635",201409070003,2014,9,7,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1636",201409090001,2014,9,9,9,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1637",201409100003,2014,9,10,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1638",201409110008,2014,9,11,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"1639",201409110009,2014,9,11,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1640",201409130005,2014,9,13,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1641",201409140002,2014,9,12,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1642",201409150007,2014,9,16,2,4,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1643",201409150011,2014,9,16,1,0,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1644",201409180042,2014,9,18,1,1,"Pakistan","Al-Qaida in the Indian Subcontinent",NA,NA,NA
+"1645",201409200006,2014,9,20,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1646",201409200023,2014,9,20,5,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1647",201409230010,2014,9,23,4,6,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1648",201409270009,2014,9,27,2,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"1649",201409270010,2014,9,27,0,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"1650",201409280019,2014,9,28,16,51,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1651",201409280020,2014,9,28,0,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"1652",201409280070,2014,9,28,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"1653",201410010079,2014,10,1,0,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1654",201410020046,2014,10,2,0,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1655",201410080008,2014,10,8,10,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"1656",201410080009,2014,10,8,6,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"1657",201410080010,2014,10,8,6,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"1658",201410080011,2014,10,8,6,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"1659",201410080012,2014,10,8,5,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar al-Sharia",NA,NA
+"1660",201410090001,2014,10,9,13,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1661",201410090004,2014,10,9,21,15,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1662",201410090005,2014,10,9,46,150,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1663",201410110001,2014,10,11,2,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1664",201410110014,2014,10,11,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1665",201410150064,2014,10,15,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1666",201410150065,2014,10,15,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1667",201410150066,2014,10,15,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1668",201410150067,2014,10,15,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1669",201410150068,2014,10,15,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1670",201410160017,2014,10,16,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1671",201410160018,2014,10,16,2,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1672",201410160019,2014,10,16,2,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1673",201410160020,2014,10,16,1,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1674",201410160021,2014,10,16,3,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1675",201410180002,2014,10,18,4,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1676",201410200007,2014,10,20,11,15,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1677",201410200008,2014,10,20,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1678",201410210028,2014,10,21,1,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1679",201410210029,2014,10,21,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1680",201410210030,2014,10,21,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1681",201410220051,2014,10,22,3,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1682",201410270019,2014,10,27,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1683",201410290001,2014,10,29,0,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1684",201410300042,2014,10,30,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1685",201410310007,2014,10,30,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1686",201411010001,2014,11,1,16,10,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1687",201411050022,2014,11,5,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1688",201411080045,2014,11,8,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1689",201411110009,2014,11,11,3,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1690",201411250024,2014,11,25,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1691",201411260028,2014,11,26,5,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1692",201411300010,2014,11,29,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1693",201412010024,2014,12,1,4,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1694",201412010045,2014,12,1,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1695",201412010074,2014,12,1,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1696",201412030012,2014,12,3,4,17,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1697",201412030027,2014,12,3,1,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1698",201412060014,2014,12,6,2,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1699",201412070011,2014,12,7,1,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1700",201412080009,2014,12,8,2,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1701",201412080079,2014,12,8,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1702",201412080080,2014,12,8,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1703",201412080081,2014,12,8,0,8,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1704",201412080082,2014,12,8,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1705",201412080083,2014,12,8,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1706",201412080084,2014,12,8,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1707",201412090004,2014,12,9,7,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1708",201412110013,2014,12,11,0,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1709",201412120007,2014,12,12,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1710",201412140020,2014,12,14,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1711",201412160009,2014,12,16,11,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1712",201412160010,2014,12,16,16,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1713",201412170005,2014,12,17,3,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1714",201412180043,2014,12,18,5,8,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1715",201412180044,2014,12,18,4,7,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1716",201412190030,2014,12,19,3,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1717",201412210023,2014,12,20,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1718",201412220044,2014,12,22,0,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1719",201412230001,2014,12,23,0,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1720",201412230002,2014,12,23,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1721",201412230003,2014,12,23,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1722",201412230004,2014,12,23,1,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1723",201412230043,2014,12,23,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1724",201412270022,2014,12,27,2,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1725",201412280001,2014,12,28,1,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1726",201412290018,2014,12,29,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1727",201412290019,2014,12,29,0,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1728",201412290026,2014,12,29,2,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1729",201412300018,2014,12,30,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1730",201412310037,2014,12,31,50,70,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1731",201412310103,2014,12,30,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1732",201412310104,2014,12,30,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1733",201501010071,2015,1,1,4,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1734",201501010077,2015,1,1,0,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1735",201501020079,2015,1,2,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1736",201501030043,2015,1,3,1,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1737",201501030089,2015,1,3,0,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1738",201501030091,2015,1,3,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1739",201501040011,2015,1,4,4,25,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1740",201501040012,2015,1,4,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1741",201501040044,2015,1,4,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1742",201501050041,2015,1,5,11,9,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1743",201501050047,2015,1,5,0,6,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1744",201501060006,2015,1,6,5,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1745",201501070001,2015,1,7,12,12,"France","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1746",201501070004,2015,1,7,38,66,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1747",201501080035,2015,1,8,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1748",201501100068,2015,1,10,0,0,"Pakistan","Al-Qaida in the Indian Subcontinent",NA,NA,NA
+"1749",201501110046,2015,1,11,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1750",201501110047,2015,1,11,0,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1751",201501120011,2015,1,12,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1752",201501130021,2015,1,13,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1753",201501180022,2015,1,18,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1754",201501200024,2015,1,20,5,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1755",201501260008,2015,1,26,3,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1756",201501260009,2015,1,26,1,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1757",201501270051,2015,1,27,1,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1758",201501280019,2015,1,28,7,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1759",201501290065,2015,1,28,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1760",201501300025,2015,1,30,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1761",201501300030,2015,1,30,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1762",201501310003,2015,1,31,0,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1763",201502010040,2015,2,1,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1764",201502010041,2015,2,1,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1765",201502010042,2015,2,1,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1766",201502010136,2015,2,1,5,12,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1767",201502020096,2015,2,2,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1768",201502030035,2015,2,3,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1769",201502030049,2015,2,3,2,6,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1770",201502040028,2015,2,4,6,12,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1771",201502060098,2015,2,6,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1772",201502070051,2015,2,7,0,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1773",201502100102,2015,2,10,0,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1774",201502120005,2015,2,12,8,7,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1775",201502120104,2015,2,12,0,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1776",201502130004,2015,2,13,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1777",201502130005,2015,2,13,0,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1778",201502130072,2015,2,13,0,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1779",201502140002,2015,2,14,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1780",201502160011,2015,2,16,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1781",201502170001,2015,2,17,0,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1782",201502170016,2015,2,17,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1783",201502180013,2015,2,18,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia","Southern Mobility Movement (Yemen)",NA
+"1784",201502200017,2015,2,20,0,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1785",201502240026,2015,2,24,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1786",201502240027,2015,2,24,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1787",201502260045,2015,2,26,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1788",201502270018,2015,2,26,4,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1789",201503030042,2015,3,4,0,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1790",201503030043,2015,3,3,3,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1791",201503030044,2015,3,3,8,12,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1792",201503030047,2015,3,3,9,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1793",201503050020,2015,3,5,0,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1794",201503080013,2015,3,8,3,11,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,"Tuareg extremists",NA
+"1795",201503080084,2015,3,8,9,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1796",201503090033,2015,3,9,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1797",201503090060,2015,3,9,4,24,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1798",201503090061,2015,3,9,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1799",201503100024,2015,3,10,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1800",201503100079,2015,3,10,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1801",201503110063,2015,3,11,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1802",201503120028,2015,3,12,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1803",201503150018,2015,3,15,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1804",201503170065,2015,3,17,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1805",201503180032,2015,3,18,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1806",201503190023,2015,3,18,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1807",201503210061,2015,3,21,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1808",201503220028,2015,3,22,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1809",201504010043,2015,4,1,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,"Supporters of Abd Rabbuh Mansur Hadi",NA
+"1810",201504010044,2015,4,1,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,"Supporters of Abd Rabbuh Mansur Hadi",NA
+"1811",201504020006,2015,4,2,7,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1812",201504030014,2015,4,3,5,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1813",201504030015,2015,4,2,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1814",201504030016,2015,4,2,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1815",201504030017,2015,4,2,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1816",201504030018,2015,4,2,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1817",201504050041,2015,4,5,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1818",201504060033,2015,4,6,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1819",201504070052,2015,4,7,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1820",201504070053,2015,4,7,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1821",201504080046,2015,4,8,15,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1822",201504080050,2015,4,8,8,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,"Supporters of Abd Rabbuh Mansur Hadi",NA
+"1823",201504090063,2015,4,9,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,"Sanaa Province of the Islamic State",NA
+"1824",201504120092,2015,4,12,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1825",201504130086,2015,4,13,15,10,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1826",201504160075,2015,4,16,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1827",201504190050,2015,4,19,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1828",201504290025,2015,4,29,20,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,"Houthi extremists (Ansar Allah)",NA
+"1829",201504290040,2015,4,29,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1830",201505010065,2015,5,1,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1831",201505030121,2015,5,1,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1832",201505100068,2015,5,10,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1833",201505120033,2015,5,12,4,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1834",201505120071,2015,5,12,1,0,"Bangladesh","Al-Qaida in the Indian Subcontinent",NA,NA,NA
+"1835",201505150047,2015,5,15,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1836",201505250123,2015,5,25,0,0,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1837",201505280068,2015,5,28,0,3,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1838",201505300061,2015,5,30,12,8,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1839",201505300078,2015,5,30,8,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1840",201505300091,2015,5,29,0,0,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1841",201506040008,2015,6,4,1,2,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1842",201506100068,2015,6,10,15,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1843",201506110039,2015,6,11,25,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1844",201506170030,2015,6,17,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1845",201506210023,2015,6,21,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,"Al-Islah Party",NA
+"1846",201506230012,2015,6,23,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1847",201506230013,2015,6,23,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1848",201506300051,2015,6,30,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1849",201507020059,2015,7,2,6,5,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,"Ansar al-Dine (Mali)",NA
+"1850",201507060043,2015,7,6,0,2,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1851",201507180002,2015,7,18,10,NA,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1852",201507260002,2015,7,26,0,2,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)","Al-Malahem Battalion",NA,NA
+"1853",201507310026,2015,7,31,8,30,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1854",201507310028,2015,7,31,0,8,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1855",201508010020,2015,8,1,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1856",201508010065,2015,8,1,2,4,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,"Macina Liberation Front (FLM)",NA
+"1857",201508030029,2015,8,3,11,1,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,"Ansar al-Dine (Mali)",NA
+"1858",201508060106,2015,8,6,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1859",201508060108,2015,8,6,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1860",201508070060,2015,8,7,1,0,"Bangladesh","Al-Qaida in the Indian Subcontinent","Ansar al-Islam","Ansarullah Bangla Team",NA
+"1861",201508170001,2015,8,18,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1862",201508200001,2015,8,20,4,10,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1863",201508220029,2015,8,22,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1864",201508250001,2015,8,25,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1865",201508260003,2015,8,26,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1866",201508260014,2015,8,25,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1867",201508270004,2015,8,27,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1868",201508300003,2015,8,30,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1869",201508300092,2015,8,30,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1870",201509010052,2015,9,1,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1871",201509170042,2015,9,17,9,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1872",201509170045,2015,9,17,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1873",201509180041,2015,9,18,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1874",201510140049,2015,10,14,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1875",201510160051,2015,10,16,12,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1876",201510160052,2015,10,16,3,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1877",201510220032,2015,10,22,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1878",201510250030,2015,10,25,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1879",201510250031,2015,10,25,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1880",201510310026,2015,10,31,1,0,"Bangladesh","Al-Qaida in the Indian Subcontinent","Ansar al-Islam","Ansarullah Bangla Team",NA
+"1881",201510310027,2015,10,31,0,3,"Bangladesh","Al-Qaida in the Indian Subcontinent","Ansar al-Islam","Ansarullah Bangla Team",NA
+"1882",201511210002,2015,11,21,0,0,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1883",201511210003,2015,11,21,0,0,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1884",201512020052,2015,12,2,12,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1885",201512020053,2015,12,2,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1886",201512050014,2015,12,5,4,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1887",201512050015,2015,12,5,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1888",201512070050,2015,12,7,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1889",201512170054,2015,12,17,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1890",201512290024,2015,12,29,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1891",201512310010,2015,12,31,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1892",201601010023,2016,1,1,3,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1893",201601030046,2016,1,3,1,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1894",201601040056,2016,1,4,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1895",201601060017,2016,1,6,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1896",201601080001,2016,1,8,NA,NA,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)","Emirate of the Sahara",NA,NA
+"1897",201601120012,2016,1,12,0,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1898",201601140036,2016,1,14,1,0,"Pakistan","Al-Qaida in the Indian Subcontinent",NA,NA,NA
+"1899",201601150001,2016,1,15,13,11,"Burkina Faso","Al-Qaida in the Islamic Maghreb (AQIM)","Al-Mourabitoun",NA,NA
+"1900",201601150002,2016,1,15,10,11,"Burkina Faso","Al-Qaida in the Islamic Maghreb (AQIM)","Al-Mourabitoun",NA,NA
+"1901",201601150003,2016,1,15,NA,NA,"Burkina Faso","Al-Qaida in the Islamic Maghreb (AQIM)","Emirate of the Sahara",NA,NA
+"1902",201601160001,2016,1,16,11,11,"Burkina Faso","Al-Qaida in the Islamic Maghreb (AQIM)","Al-Mourabitoun",NA,NA
+"1903",201601170009,2016,1,17,7,12,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Adan Abyan Islamic Army (AAIA)","Adan-Abyan Province of the Islamic State",NA
+"1904",201601180035,2016,1,18,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1905",201601210018,2016,1,21,4,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1906",201601210020,2016,1,21,4,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1907",201601240007,2016,1,24,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1908",201601250034,2016,1,26,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1909",201602010024,2016,2,1,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1910",201602050018,2016,2,5,0,1,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1911",201602050019,2016,2,5,0,0,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1912",201602060065,2016,2,6,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1913",201602060066,2016,2,6,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1914",201602070002,2016,2,7,0,0,"Pakistan","Al-Qaida in the Indian Subcontinent",NA,NA,NA
+"1915",201602110015,2016,2,11,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1916",201602120077,2016,2,12,3,3,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1917",201602120081,2016,2,12,5,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1918",201602140012,2016,2,14,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,"Lahij Province of the Islamic State",NA
+"1919",201602160022,2016,2,16,4,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1920",201602180059,2016,2,18,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1921",201602200020,2016,2,20,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1922",201602220033,2016,2,22,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1923",201602240008,2016,2,22,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1924",201602240010,2016,2,24,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1925",201602270058,2016,2,27,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1926",201602290001,2016,2,29,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1927",201602290002,2016,2,29,5,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1928",201603050013,2016,3,5,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1929",201603080066,2016,3,8,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1930",201603120060,2016,3,12,17,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1931",201603130002,2016,3,13,22,33,"Ivory Coast","Al-Qaida in the Islamic Maghreb (AQIM)","Al-Mourabitoun",NA,NA
+"1932",201603130025,2016,3,13,0,0,"Pakistan","Al-Qaida in the Indian Subcontinent",NA,NA,NA
+"1933",201603130026,2016,3,13,0,0,"Pakistan","Al-Qaida in the Indian Subcontinent",NA,NA,NA
+"1934",201603160023,2016,3,16,3,NA,"Niger","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1935",201603170026,2016,3,17,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1936",201603180014,2016,3,18,0,0,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)","Al-Mourabitoun",NA,NA
+"1937",201603210015,2016,3,21,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1938",201603210017,2016,3,21,1,0,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1939",201604060027,2016,4,6,1,0,"Bangladesh","Al-Qaida in the Indian Subcontinent","Ansar al-Islam","Ansarullah Bangla Team",NA
+"1940",201604090023,2016,4,9,19,17,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1941",201604240053,2016,4,24,7,14,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1942",201604250004,2016,4,25,2,2,"Bangladesh","Al-Qaida in the Indian Subcontinent","Ansar al-Islam","Ansarullah Bangla Team",NA
+"1943",201604260010,2016,4,26,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1944",201604260011,2016,4,26,NA,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1945",201604260012,2016,4,26,NA,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1946",201604280020,2016,4,28,1,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1947",201605010008,2016,5,1,4,8,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1948",201605110027,2016,5,11,9,15,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1949",201605290001,2016,5,29,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1950",201605310013,2016,5,31,1,12,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)","Al-Mourabitoun",NA,NA
+"1951",201605310014,2016,5,31,1,2,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)","Al-Mourabitoun",NA,NA
+"1952",201606020024,2016,6,2,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1953",201606200001,2016,6,20,0,1,"Pakistan","Al-Qaida in the Indian Subcontinent",NA,NA,NA
+"1954",201606210017,2016,6,21,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1955",201606220016,2016,6,22,1,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1956",201606300037,2016,6,30,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1957",201607010037,2016,7,1,2,1,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)","Victory Battalion",NA,NA
+"1958",201607060013,2016,7,6,16,10,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1959",201607090019,2016,7,9,2,0,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,"Ansar al-Dine (Mali)",NA
+"1960",201607150025,2016,7,15,1,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1961",201607180021,2016,7,18,4,8,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1962",201607180022,2016,7,18,3,7,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1963",201607210042,2016,7,21,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1964",201607240014,2016,7,24,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1965",201607250024,2016,7,25,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1966",201607260015,2016,7,25,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1967",201607290023,2016,7,29,0,20,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1968",201607310062,2016,7,31,1,0,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)","Emirate of the Sahara",NA,NA
+"1969",201608020042,2016,8,2,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1970",201608020043,2016,8,2,7,10,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1971",201608040048,2016,8,4,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1972",201608040049,2016,8,4,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1973",201608070004,2016,8,7,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1974",201608070005,2016,8,7,11,18,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1975",201608150030,2016,8,15,4,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1976",201608180022,2016,8,18,4,6,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1977",201608260022,2016,8,26,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1978",201609110001,2016,9,11,7,15,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1979",201609110010,2016,9,11,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1980",201609140002,2016,9,14,1,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1981",201609140003,2016,9,14,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1982",201609180010,2016,9,18,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,"Adan-Abyan Province of the Islamic State",NA
+"1983",201609190002,2016,9,19,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1984",201609190003,2016,9,19,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1985",201609190005,2016,9,19,0,0,"Libya","Al-Qaida in the Islamic Maghreb (AQIM)","Al-Mourabitoun","Islamic State in the Greater Sahara (ISGS)",NA
+"1986",201609210001,2016,9,21,1,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1987",201609210026,2016,9,21,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1988",201609250013,2016,9,25,2,1,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"1989",201609270002,2016,9,27,1,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1990",201610090036,2016,10,9,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1991",201610200016,2016,10,20,5,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1992",201610200044,2016,10,20,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"1993",201610260051,2016,10,26,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1994",201610270030,2016,10,27,0,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1995",201611030018,2016,11,3,4,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1996",201611080020,2016,11,8,2,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1997",201611080021,2016,11,8,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1998",201611150001,2016,11,15,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"1999",201611170032,2016,11,17,0,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2000",201611210015,2016,11,21,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2001",201611220012,2016,11,22,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2002",201611280014,2016,11,27,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2003",201611290009,2016,11,29,4,0,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)","Al-Mourabitoun",NA,NA
+"2004",201611290010,2016,11,29,0,0,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"2005",201612050024,2016,12,5,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2006",201612150074,2016,12,15,0,2,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"2007",201612180048,2016,12,18,NA,NA,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)","Al-Furqan Battalion",NA,NA
+"2008",201612240007,2016,12,24,NA,NA,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)","Al-Mourabitoun",NA,NA
+"2009",201612250022,2016,12,25,2,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2010",201612250023,2016,12,25,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2011",201701030001,2017,1,3,2,8,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2012",201701040029,2017,1,4,1,2,"Pakistan","Al-Qaida in the Indian Subcontinent",NA,"Lashkar-e-Jhangvi",NA
+"2013",201701060020,2017,1,6,0,1,"Pakistan","Al-Qaida in the Indian Subcontinent",NA,"Lashkar-e-Jhangvi",NA
+"2014",201701060035,2017,1,6,1,1,"Pakistan","Al-Qaida in the Indian Subcontinent",NA,"Lashkar-e-Jhangvi",NA
+"2015",201701120021,2017,1,11,1,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,"Adan-Abyan Province of the Islamic State",NA
+"2016",201701150047,2017,1,15,4,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2017",201701180001,2017,1,18,82,115,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"2018",201701290012,2017,1,28,4,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2019",201701300024,2017,1,30,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2020",201702020035,2017,2,2,6,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2021",201702030040,2017,2,3,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2022",201702030041,2017,2,2,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2023",201702040032,2017,2,4,23,10,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2024",201702060010,2017,2,5,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2025",201702160045,2017,2,16,4,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2026",201702230007,2017,2,23,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2027",201702240007,2017,2,24,6,11,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2028",201703050006,2017,3,5,6,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"2029",201703050007,2017,3,5,5,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2030",201703190038,2017,3,19,NA,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2031",201703230008,2017,3,23,1,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2032",201703240022,2017,3,24,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2033",201703270002,2017,3,27,20,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"2034",201704090008,2017,4,9,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2035",201704130024,2017,4,13,1,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2036",201704290032,2017,4,29,1,8,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2037",201705110006,2017,5,10,4,9,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"2038",201706070015,2017,6,7,2,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2039",201706120014,2017,6,12,12,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2040",201706280036,2017,6,28,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2041",201706280037,2017,6,28,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2042",201707130046,2017,7,13,3,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2043",201707160013,2017,7,16,5,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2044",201707170012,2017,7,17,9,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2045",201707260027,2017,7,25,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2046",201707290024,2017,7,29,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"2047",201708010004,2017,8,1,3,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2048",201708020014,2017,8,2,6,8,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"2049",201708020053,2017,8,2,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2050",201708070016,2017,8,7,0,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2051",201708080005,2017,8,8,4,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2052",201708140016,2017,8,14,9,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2053",201708140017,2017,8,14,1,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2054",201708200016,2017,8,17,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"2055",201708230028,2017,8,23,1,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2056",201709060011,2017,9,5,1,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2057",201709180007,2017,9,18,3,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2058",201709180009,2017,9,18,2,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2059",201710020010,2017,10,2,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2060",201710030018,2017,10,3,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2061",201710050005,2017,10,5,1,10,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2062",201710060003,2017,10,6,5,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2063",201710230018,2017,10,23,9,10,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2064",201711100014,2017,11,10,0,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2065",201711220018,2017,11,22,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2066",201711280015,2017,11,28,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"2067",201711300007,2017,11,30,5,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2068",201801100011,2018,1,10,4,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"2069",201801100012,2018,1,10,4,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2070",201801300016,2018,1,30,13,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"2071",201802040020,2018,2,4,5,NA,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,"Islamic State in the Greater Sahara (ISGS)",NA
+"2072",201802050022,2018,2,5,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2073",201802140017,2018,2,14,5,2,"Algeria","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"2074",201802160012,2018,2,16,3,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2075",201802170012,2018,2,17,6,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2076",201802260007,2018,2,26,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2077",201803020019,2018,3,2,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2078",201803180005,2018,3,18,3,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2079",201803210017,2018,3,21,3,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2080",201803280004,2018,3,28,14,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2081",201806140009,2018,6,14,4,7,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2082",201806210012,2018,6,21,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2083",201806250010,2018,6,25,0,9,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2084",201808020033,2018,8,2,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2085",201808050016,2018,8,4,0,6,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2086",201808290010,2018,8,28,5,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2087",201809100006,2018,9,10,0,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,"Adan-Abyan Province of the Islamic State",NA
+"2088",201809210003,2018,9,21,2,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2089",201810310005,2018,10,31,4,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2090",201811070011,2018,11,5,2,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2091",201811180007,2018,11,18,1,7,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"2092",201811230018,2018,11,23,4,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2093",201812210002,2018,12,21,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)","Ansar Al-Sharia",NA,NA
+"2094",201812210003,2018,12,21,2,45,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2095",201901050021,2019,1,5,2,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2096",201901080007,2019,1,8,2,12,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2097",201901120019,2019,1,11,NA,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2098",201901270016,2019,1,27,0,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2099",201902130010,2019,2,13,3,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2100",201903240011,2019,3,24,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2101",201903240028,2019,3,24,0,1,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2102",201904020002,2019,4,2,4,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2103",201905030009,2019,5,3,6,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2104",201905110021,2019,5,11,1,9,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2105",201906010006,2019,6,1,1,2,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2106",201906070007,2019,6,7,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2107",201906110028,2019,6,11,3,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2108",201906180005,2019,6,18,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2109",201906210014,2019,6,21,3,4,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2110",201906210017,2019,6,21,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2111",201906250011,2019,6,25,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2112",201907190001,2019,7,19,5,3,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2113",201908020009,2019,8,2,19,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2114",201908240013,2019,8,24,NA,5,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2115",201909080022,2019,9,4,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2116",201909080034,2019,9,8,1,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2117",201909300014,2019,9,30,26,3,"Mali","Al-Qaida in the Islamic Maghreb (AQIM)",NA,NA,NA
+"2118",201911110016,2019,11,11,0,4,"Saudi Arabia","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2119",201911190034,2019,11,19,0,NA,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2120",201911300030,2019,11,30,0,0,"Yemen","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
+"2121",201912060007,2019,12,6,4,8,"United States","Al-Qaida in the Arabian Peninsula (AQAP)",NA,NA,NA
