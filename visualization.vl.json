@@ -1,0 +1,30 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/salaw-quest/visualizationterrorism/main/terror2.csv"
+  },
+  "title": "Possible  ",
+  "config": {"view": {"strokeWidth": 0, "step": 20}, "axis": {"domain": false}},
+  "mark": "rect",
+  "encoding": {
+    "x": {
+      "field": "iyear",
+      "timeUnit": "year",
+      "type": "ordinal",
+      "title": "year",
+      "axis": {"labelAngle": 90}
+    },
+    "y": {
+      "field": "imonth",
+      "timeUnit": "month",
+      "type": "ordinal",
+      "title": "Month"
+    },
+    "color": {
+      "field": "nkill",
+      "aggregate": "sum",
+      "type": "quantitative",
+      "legend": {"title": null}
+    }
+  }
+}
